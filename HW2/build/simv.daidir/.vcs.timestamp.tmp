@@ -1,0 +1,143 @@
+7        
+0 SRAM/SRAM.v
+0 /usr/cad/synopsys/vcs/cur/etc/systemverilog/SRAM/SRAM.v
+0 /home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./syn/SRAM/SRAM.v
+0 /home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./src/SRAM/SRAM.v
+0 /home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./src/AXI/SRAM/SRAM.v
+0 /home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./include/SRAM/SRAM.v
+0 ../syn/top_syn.sdf_c
+42
++define+300000
++define+9.0
++define+SYN+prog0
++incdir+/home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./syn+/home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./src+/home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./src/AXI+/home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./include+/home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./sim
++itf+/usr/cad/synopsys/vcs/cur/linux64/lib/vcsdp_lite.tab
++neg_tchk
++prog_path=/home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./sim/prog0
++rdcycle=1
++vcsd1
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/usr/cad/synopsys/vcs/cur/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -rdynamic
+-Mobjects= /usr/cad/synopsys/vcs/cur/linux64/lib/libvirsim.so /usr/cad/synopsys/vcs/cur/linux64/lib/liberrorinf.so /usr/cad/synopsys/vcs/cur/linux64/lib/libsnpsmalloc.so /usr/cad/synopsys/vcs/cur/linux64/lib/libvfs.so
+-Mout=simv
+-Msaverestoreobj=/usr/cad/synopsys/vcs/cur/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=/usr/cad/synopsys/verdi/cur/share/PLI/VCS/LINUX64/pli.a -ldl
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/usr/cad/synopsys/vcs/cur/include
+-Mxllcflags=
+-P
+-Xvcs_run_simv=1
+-debug_access+all
+-diag=sdf:verbose
+-fsdb
+-full64
+-gen_obj
+-negdelay
+-picarchive
+-sverilog
+-v
+/usr/cad/synopsys/vcs/cur/linux64/bin/vcs1
+/usr/cad/synopsys/verdi/cur/share/PLI/VCS/LINUX64/verdi.tab
+/usr/cad/CBDK/CBDK018_UMC_Faraday_v1.0/orig_lib/fsa0m_a/2009Q2v2.0/GENERIC_CORE/FrontEnd/verilog/fsa0m_a_generic_core_21.lib.src
+/home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./sim/top_tb.sv
+76
+vip_dir=/home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/vip
+mraarch=linux_64
+installdir=/usr/cad/synopsys/hspice/cur/hspice
+XMODIFIERS=@im=ibus
+XDG_SESSION_ID=3600
+XDG_RUNTIME_DIR=/run/user/2186
+VMR_MODE_FLAG=64
+VERIFIC_LICENSE_FILE=/usr/cad/HOY/BRAINS/cur/../../CIC/Verific.dat
+VERDI_HOME=/usr/cad/synopsys/verdi/cur
+VENDOR=unknown
+VC_STATIC_HOME=/usr/cad/synopsys/vc_formal/cur/
+VCS_PATHMAP_PRELOAD_DONE=1
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_HOME=/usr/cad/synopsys/vcs/cur
+VCS_EXEC_DONE=1
+VCS_DEPTH=0
+VCS_CC=gcc
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux64
+UNAME=/bin/uname
+TOOL_HOME=/usr/cad/synopsys/vcs/cur/linux64
+TMIARCH=RH_64
+SYN_MAN_DIR=/usr/cad/synopsys/synthesis/cur/doc/syn/man
+SYNTHESIS=/usr/cad/synopsys/synthesis/cur
+SYNOPSYS_TMAX=/usr/cad/synopsys/tmax/cur
+SYNOPSYS_SYSTYPE=LINUX64_L31el
+SYNOPSYS_LC_ROOT=/usr/cad/synopsys/lc/cur
+SYNOPSYS=/usr/cad/synopsys/synthesis/cur/
+SSH_TTY=/dev/pts/5
+SSH_CONNECTION=192.168.1.12 34934 192.168.100.10 22
+SSH_CLIENT=192.168.1.12 34934 22
+SOFT_MAN_DIR=/usr/cad/synopsys/coreconsultant/cur/doc/dware/man
+SNPS_VCS_PYTHON3=/usr/cad/synopsys/vcs/cur/linux64/bin/Python-3.6.1/bin/python3
+SNPS_VCS_CLANG_PATH=/usr/cad/synopsys/vcs/cur/linux64/clang
+SNPS_PLATFORM=linux64
+SNPS_INTERNAL_VCS_LINUX_OS=linux
+SNPS_64=1
+SHLIB_PATH=/usr/cad/synopsys/verdi/cur/share/PLI/VCS/LINUX64/:
+SELINUX_USE_CURRENT_RANGE=
+SELINUX_ROLE_REQUESTED=
+SELINUX_LEVEL_REQUESTED=
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+REMOTEHOST=192.168.1.12
+PRIMETIME=/usr/cad/synopsys/primetime/cur
+PRIMERAIL=/usr/cad/synopsys/primerail/cur
+PRIMEPOWER=/usr/cad/synopsys/primepower/cur
+POWREP_HOME=/usr/cad/synopsys/power_replay/cur
+OVA_UUM=0
+OSTYPE=linux
+MGC_TMPDIR=/tmp
+MGC_LOCATION_MAP=NO_MAP
+MGC_HOME=/usr/cad/mentor/calibre/cur
+MFLAGS=
+MAKELEVEL=1
+MAKEFLAGS=
+Laker_TCL_ToolBox=1
+Laker_TCL_L3=1
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_ALL=C
+ICV_HOME_DIR=/usr/cad/synopsys/icvalidator/2020.09-sp3-3/
+HSP_HOME=/usr/cad/synopsys/hspice/cur/hspice
+HSP_GCC_VERSION=5.2.0
+HSP_GCC=/usr/cad/synopsys/hspice/cur/hspice/GNU/linux64/gcc/bin/gcc -m64 
+HOY_LIC_FILE=4141@lshc
+HOSTTYPE=x86_64-linux
+GROUP=student
+FTCLMD_LICENSE_FILE=99993@lshc
+FTC=/usr/cad/CBDK/CBDK018_UMC_Faraday_v1.0/CIC/Memory/ftclib_200901.2.1
+EUCLIDE_HOME=/usr/cad/synopsys/euclide/2023.03-sp2/
+DESIGNWARE_HOME=/usr/cad/synopsys/dw_home/cur
+CMIARCH=RH_64
+CDS_Netlisting_Mode=Analog
+CDS_LOAD_ENV=CSF
+CDSHOME=/usr/cad/cadence/IC/IC_06.17.709/
+0
+0
+7
+1698597876 ../syn/top_syn.sdf
+1694586304 /home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./sim/SRAM/SRAM.v
+1698597851 ../syn/top_syn.v
+1698595763 /home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./sim/top_tb.sv
+1241502710 /usr/cad/CBDK/CBDK018_UMC_Faraday_v1.0/orig_lib/fsa0m_a/2009Q2v2.0/GENERIC_CORE/FrontEnd/verilog/fsa0m_a_generic_core_21.lib.src
+1693225683 /usr/cad/synopsys/verdi/cur/share/PLI/VCS/LINUX64/verdi.tab
+1693040877 /usr/cad/synopsys/vcs/cur/linux64/lib/vcsdp_lite.tab
+4
+1693043931 /usr/cad/synopsys/vcs/cur/linux64/lib/libvirsim.so
+1693042805 /usr/cad/synopsys/vcs/cur/linux64/lib/liberrorinf.so
+1693042720 /usr/cad/synopsys/vcs/cur/linux64/lib/libsnpsmalloc.so
+1693042802 /usr/cad/synopsys/vcs/cur/linux64/lib/libvfs.so

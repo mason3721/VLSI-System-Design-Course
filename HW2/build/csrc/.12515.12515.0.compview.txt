@@ -1,0 +1,9 @@
+{"vcs1":{"timestamp_begin":1698669226.006335070, "rt":5.98, "ut":1.49, "st":0.30}}
+{"vcselab":{"timestamp_begin":1698669232.689766954, "rt":2.66, "ut":0.69, "st":0.17}}
+{"link":{"timestamp_begin":1698669235.926448457, "rt":1.33, "ut":0.33, "st":0.15}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1698669220.364469630}
+{"VCS_COMP_START_TIME": 1698669220.364469630}
+{"VCS_COMP_END_TIME": 1698669247.542543832}
+{"VCS_USER_OPTIONS": "-R -sverilog /home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./sim/top_tb.sv -debug_access+all -full64 +incdir+/home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./src+/home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./src/AXI+/home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./include+/home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./sim +define+prog1 +define+CYCLE=9.0 +define+MAX=220000 +prog_path=/home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./sim/prog1 +rdcycle=1"}
+{"vcs1": {"peak_mem": 353676}}
+{"vcselab": {"peak_mem": 225684}}

@@ -1,0 +1,50 @@
+2023-10-30 20:30:50.317456 (2615) main____ INFO    ----------------------------------------
+2023-10-30 20:30:50.317704 (2615) main____ INFO    JasperGold version info
+2023-10-30 20:30:50.317749 (2615) main____ INFO      tool      : JasperGold 2018.03
+2023-10-30 20:30:50.317787 (2615) main____ INFO      version   : 2018.03p001 64 bits
+2023-10-30 20:30:50.317818 (2615) main____ INFO      build date: 2018.04.24 18:13:05 PDT
+2023-10-30 20:30:50.317839 (2615) main____ INFO    ----------------------------------------
+2023-10-30 20:30:50.317859 (2615) main____ INFO    Runtime info:
+2023-10-30 20:30:50.317886 (2615) main____ INFO      platform  : Linux 3.10.0-957.21.3.el7.x86_64 x86_64
+2023-10-30 20:30:50.317918 (2615) main____ INFO      hostname  : vlsicad9
+2023-10-30 20:30:50.317942 (2615) main____ INFO      pid       : 2615
+2023-10-30 20:30:50.317967 (2615) main____ INFO      arguments : '-style' 'windows' '../script/jg_slave.tcl'
+2023-10-30 20:30:50.317991 (2615) main____ INFO    ----------------------------------------
+2023-10-30 20:30:50.318012 (2615) main____ INFO    System resource limits info:
+2023-10-30 20:30:50.318037 (2615) main____ INFO      virtual memory: unlimited
+2023-10-30 20:30:50.318064 (2615) main____ INFO      cpu time      : unlimited
+2023-10-30 20:30:50.318105 (2615) main____ INFO      stack size    : 8388608 B
+2023-10-30 20:30:50.318144 (2615) main____ INFO      core file size: 0 B
+2023-10-30 20:30:50.318181 (2615) main____ INFO      open files    : 1024
+2023-10-30 20:30:50.318208 (2615) main____ INFO      file size     : unlimited
+2023-10-30 20:30:50.318232 (2615) main____ INFO    ----------------------------------------
+2023-10-30 20:30:50.318253 (2615) main____ INFO    Memory statistics:
+2023-10-30 20:30:50.318276 (2615) main____ INFO      total physical memory  : 24509248 kB
+2023-10-30 20:30:50.318299 (2615) main____ INFO      free physical memory   : 648892 kB
+2023-10-30 20:30:50.318320 (2615) main____ INFO      committed address space: 69844644 kB
+2023-10-30 20:30:50.318342 (2615) main____ INFO    ----------------------------------------
+2023-10-30 20:30:50.318426 (2615) main____ INFO    Important environment variables:
+2023-10-30 20:30:50.318466 (2615) main____ INFO      DISPLAY        : 'localhost:18.0'
+2023-10-30 20:30:50.318505 (2615) main____ INFO      LM_LICENSE_FILE: '5280@vlsicad8:26000@lscic:1717@lstn:5280@lstn:26585@lstc:26585@lshc:26585@lstn:26585@lsncku:26585@lscic:'
+2023-10-30 20:30:50.318531 (2615) main____ INFO    ----------------------------------------
+2023-10-30 20:30:50.337362 (2615) lic_core INFO    Initializing license system ...
+2023-10-30 20:30:50.339712 (2615) lic_core INFO    ... license system initialized.
+2023-10-30 20:30:50.342681 (2615) lic__man INFO    Claim 'main' for <ui>.
+2023-10-30 20:30:50.342821 (2615) lic_core INFO    (1) checking out 'jasper_interactive' ...
+2023-10-30 20:30:50.453914 (2615) lic_core INFO    ... (1) checkout succeeded
+2023-10-30 20:30:50.454134 (2615) lic__man INFO    Claim 'fpv' for <ui>.
+2023-10-30 20:30:50.454212 (2615) lic_core INFO    (2) checking out 'jasper_fpv' ...
+2023-10-30 20:31:00.561699 (2615) lic_core INFO    ... (2) checkout failed (error: -5) ("FLEXnet ERROR(-5, 0, 0): No such feature exists.")
+2023-10-30 20:31:00.561790 (2615) lic_core INFO    (3) checking out 'jasper_fao' ...
+2023-10-30 20:31:00.659344 (2615) lic_core INFO    ... (3) checkout succeeded
+2023-10-30 20:31:04.228620 (2615) lic__man INFO    Claim 'fpv' for <ui>.
+2023-10-30 20:31:05.037233 (2615) lic__man INFO    Unclaim 'fpv' for <ui>.
+2023-10-30 20:31:05.037350 (2615) lic__man INFO    Claim 'fpv' for <ui>.
+2023-10-30 20:31:05.053206 (2615) session_ INFO    Starting analysis session with session id 'session_0' ...
+2023-10-30 20:31:05.056947 (2615) session_ INFO    Analysis session with session id 'session_0' started (pid: 2890)
+2023-10-30 20:31:19.898238 (2615) session_ INFO    Analysis session 'session_0' connected to the console (host: 192.168.100.10:48732)
+2023-10-30 20:31:31.585077 (2615) lic__man INFO    Unclaim everything for 'session_0'.
+2023-10-30 20:31:34.680404 (2615) lic__man INFO    Claim 'fpv' for 'session_0/prove-0'.
+2023-10-30 20:31:43.437822 (2615) lic__man INFO    Unclaim everything for 'session_0/prove-0'.
+2023-10-30 20:32:05.687800 (2615) main____ INFO    About to exit: requested from GUI
+2023-10-30 20:32:10.515524 (2615) main____ INFO    Exiting with status 0.

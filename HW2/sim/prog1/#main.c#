@@ -1,0 +1,12 @@
+int main(void){
+	extern int array_size;
+	extern int array_addr;
+
+		
+	for(i = 0;i<s1; ++i){
+		*(&_test_start+i) = array[i]; 
+	}	
+
+	return 0;
+}
+

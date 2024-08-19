@@ -1,0 +1,9 @@
+{"vcs1":{"timestamp_begin":1698595225.517273333, "rt":21.40, "ut":17.91, "st":1.03}}
+{"vcselab":{"timestamp_begin":1698595247.346341227, "rt":6.89, "ut":5.43, "st":0.29}}
+{"link":{"timestamp_begin":1698595254.505411070, "rt":1.85, "ut":0.89, "st":0.38}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1698595221.220748350}
+{"VCS_COMP_START_TIME": 1698595221.220748350}
+{"VCS_COMP_END_TIME": 1698595329.120452313}
+{"VCS_USER_OPTIONS": "-R -sverilog +neg_tchk -negdelay -v /usr/cad/CBDK/CBDK018_UMC_Faraday_v1.0/orig_lib/fsa0m_a/2009Q2v2.0/GENERIC_CORE/FrontEnd/verilog/fsa0m_a_generic_core_21.lib.src /home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./sim/top_tb.sv -debug_access+all -full64 -diag=sdf:verbose +incdir+/home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./syn+/home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./src+/home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./src/AXI+/home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./include+/home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./sim +define+SYN+prog3 +define+10.0 +define+300000 +prog_path=/home/user2/vsd23/vsd2384/vsd_hw2/N26114324_HW2/./sim/prog3 +rdcycle=1"}
+{"vcs1": {"peak_mem": 408852}}
+{"vcselab": {"peak_mem": 261460}}
