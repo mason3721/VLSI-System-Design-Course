@@ -1,0 +1,193 @@
+Warning: Design 'top' has '1' unresolved references. For more detailed information, use the "link" command. (UID-341)
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : top
+Version: O-2018.06
+Date   : Sat Nov 18 23:08:46 2023
+****************************************
+
+ # A fanout number of 1000 was used for high fanout net computations.
+
+Operating Conditions: WCCOM   Library: fsa0m_a_generic_core_ss1p62v125c
+Wire Load Model Mode: enclosed
+
+  Startpoint: CPU_wrapper/CPU/Reg_W/W_aluout_out_reg[1]
+              (rising edge-triggered flip-flop clocked by clk)
+  Endpoint: CPU_wrapper/CPU/Reg_M/M_aluout_out_reg[12]
+            (rising edge-triggered flip-flop clocked by clk)
+  Path Group: clk
+  Path Type: max
+
+  Des/Clust/Port     Wire Load Model       Library
+  ------------------------------------------------
+  top                enG1000K              fsa0m_a_generic_core_ss1p62v125c
+  CPU                enG100K               fsa0m_a_generic_core_ss1p62v125c
+  LD_Filter          enG5K                 fsa0m_a_generic_core_ss1p62v125c
+  Mux3_0             enG5K                 fsa0m_a_generic_core_ss1p62v125c
+  ALU                enG30K                fsa0m_a_generic_core_ss1p62v125c
+  ALU_DW_mult_uns_3  enG10K                fsa0m_a_generic_core_ss1p62v125c
+  Reg_M              enG5K                 fsa0m_a_generic_core_ss1p62v125c
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock clk (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             1.00       1.00
+  CPU_wrapper/CPU/Reg_W/W_aluout_out_reg[1]/CK (QDFFRBT)
+                                                          0.00 #     1.00 r
+  CPU_wrapper/CPU/Reg_W/W_aluout_out_reg[1]/Q (QDFFRBT)
+                                                          0.50       1.50 f
+  CPU_wrapper/CPU/Reg_W/W_aluout_out[1] (Reg_W)           0.00       1.50 f
+  CPU_wrapper/CPU/LD_Filter/W_aluout[1] (LD_Filter)       0.00       1.50 f
+  CPU_wrapper/CPU/LD_Filter/U53/OB (MXL2HS)               0.18       1.67 f
+  CPU_wrapper/CPU/LD_Filter/U121/O (MUX3)                 0.33       2.00 f
+  CPU_wrapper/CPU/LD_Filter/U65/O (ND2P)                  0.17       2.17 r
+  CPU_wrapper/CPU/LD_Filter/U6/O (INV3)                   0.07       2.24 f
+  CPU_wrapper/CPU/LD_Filter/U113/O (ND2F)                 0.15       2.38 r
+  CPU_wrapper/CPU/LD_Filter/U70/O (INV2)                  0.04       2.43 f
+  CPU_wrapper/CPU/LD_Filter/U96/O (AO13S)                 0.45       2.87 f
+  CPU_wrapper/CPU/LD_Filter/U35/O (INV2CK)                0.11       2.99 r
+  CPU_wrapper/CPU/LD_Filter/U33/O (INV4)                  0.08       3.07 f
+  CPU_wrapper/CPU/LD_Filter/U34/O (INV12CK)               0.10       3.17 r
+  CPU_wrapper/CPU/LD_Filter/U132/O (OAI12HS)              0.14       3.31 f
+  CPU_wrapper/CPU/LD_Filter/ld_data_f[22] (LD_Filter)     0.00       3.31 f
+  CPU_wrapper/CPU/Mux_wb/data_in2[22] (Mux3_0)            0.00       3.31 f
+  CPU_wrapper/CPU/Mux_wb/U25/O (ND2P)                     0.13       3.44 r
+  CPU_wrapper/CPU/Mux_wb/U26/O (ND3HT)                    0.23       3.66 f
+  CPU_wrapper/CPU/Mux_wb/data_out[22] (Mux3_0)            0.00       3.66 f
+  CPU_wrapper/CPU/Mux3_rs1data/data_in1[22] (Mux3_3)      0.00       3.66 f
+  CPU_wrapper/CPU/Mux3_rs1data/U42/O (AO222)              0.50       4.17 f
+  CPU_wrapper/CPU/Mux3_rs1data/data_out[22] (Mux3_3)      0.00       4.17 f
+  CPU_wrapper/CPU/Mux_rs1/data_in1[22] (Mux_3)            0.00       4.17 f
+  CPU_wrapper/CPU/Mux_rs1/U33/O (MUX2)                    0.31       4.48 f
+  CPU_wrapper/CPU/Mux_rs1/data_out[22] (Mux_3)            0.00       4.48 f
+  CPU_wrapper/CPU/U18/O (BUF1CK)                          0.23       4.71 f
+  CPU_wrapper/CPU/ALU/operand1[22] (ALU)                  0.00       4.71 f
+  CPU_wrapper/CPU/ALU/U117/O (INV3)                       0.19       4.90 r
+  CPU_wrapper/CPU/ALU/U187/O (INV6)                       0.18       5.08 f
+  CPU_wrapper/CPU/ALU/r356/a[22] (ALU_DW_mult_uns_3)      0.00       5.08 f
+  CPU_wrapper/CPU/ALU/r356/U4843/O (BUF1CK)               0.26       5.35 f
+  CPU_wrapper/CPU/ALU/r356/U2655/O (XNR2HP)               0.31       5.66 r
+  CPU_wrapper/CPU/ALU/r356/U3118/O (ND2P)                 0.12       5.78 f
+  CPU_wrapper/CPU/ALU/r356/U2729/O (INV4)                 0.13       5.91 r
+  CPU_wrapper/CPU/ALU/r356/U2730/O (INV12CK)              0.16       6.06 f
+  CPU_wrapper/CPU/ALU/r356/U2790/O (OAI22H)               0.22       6.28 r
+  CPU_wrapper/CPU/ALU/r356/U2758/O (INV2)                 0.10       6.38 f
+  CPU_wrapper/CPU/ALU/r356/U2786/CO (FA1S)                0.47       6.85 f
+  CPU_wrapper/CPU/ALU/r356/U4392/CO (FA1S)                0.50       7.35 f
+  CPU_wrapper/CPU/ALU/r356/U3741/CO (FA1S)                0.52       7.87 f
+  CPU_wrapper/CPU/ALU/r356/U3757/CO (FA1S)                0.54       8.41 f
+  CPU_wrapper/CPU/ALU/r356/U2918/CO (FA1S)                0.50       8.91 f
+  CPU_wrapper/CPU/ALU/r356/U2998/S (FA1S)                 0.69       9.60 r
+  CPU_wrapper/CPU/ALU/r356/U2551/S (FA1)                  0.56      10.17 f
+  CPU_wrapper/CPU/ALU/r356/U3034/O (NR2)                  0.27      10.43 r
+  CPU_wrapper/CPU/ALU/r356/U2777/O (NR2P)                 0.15      10.58 f
+  CPU_wrapper/CPU/ALU/r356/U3001/O (AOI12HS)              0.26      10.85 r
+  CPU_wrapper/CPU/ALU/r356/U3154/O (OAI12H)               0.17      11.02 f
+  CPU_wrapper/CPU/ALU/r356/U2628/O (AOI12HT)              0.22      11.23 r
+  CPU_wrapper/CPU/ALU/r356/U3086/O (INV2)                 0.13      11.36 f
+  CPU_wrapper/CPU/ALU/r356/U3064/O (AOI12HS)              0.28      11.63 r
+  CPU_wrapper/CPU/ALU/r356/U3475/O (OAI12HS)              0.15      11.79 f
+  CPU_wrapper/CPU/ALU/r356/U3474/O (XNR2HS)               0.18      11.96 f
+  CPU_wrapper/CPU/ALU/r356/product[44] (ALU_DW_mult_uns_3)
+                                                          0.00      11.96 f
+  CPU_wrapper/CPU/ALU/U1031/O (AO222)                     0.33      12.29 f
+  CPU_wrapper/CPU/ALU/U1033/O (OR2B1S)                    0.23      12.52 f
+  CPU_wrapper/CPU/ALU/U1034/O (OA13S)                     0.35      12.87 f
+  CPU_wrapper/CPU/ALU/U1036/O (AO112)                     0.29      13.16 f
+  CPU_wrapper/CPU/ALU/U1041/O (OR3B2)                     0.23      13.39 f
+  CPU_wrapper/CPU/ALU/alu_out[12] (ALU)                   0.00      13.39 f
+  CPU_wrapper/CPU/Reg_M/M_aluout_in[12] (Reg_M)           0.00      13.39 f
+  CPU_wrapper/CPU/Reg_M/U18/O (MOAI1S)                    0.33      13.72 f
+  CPU_wrapper/CPU/Reg_M/M_aluout_out_reg[12]/D (QDFFRBN)
+                                                          0.00      13.72 f
+  data arrival time                                                 13.72
+
+  clock clk (rise edge)                                  13.00      13.00
+  clock network delay (ideal)                             1.00      14.00
+  clock uncertainty                                      -0.10      13.90
+  CPU_wrapper/CPU/Reg_M/M_aluout_out_reg[12]/CK (QDFFRBN)
+                                                          0.00      13.90 r
+  library setup time                                     -0.17      13.73
+  data required time                                                13.73
+  --------------------------------------------------------------------------
+  data required time                                                13.73
+  data arrival time                                                -13.72
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.00
+
+
+  Startpoint: WDT_wrapper/wdt/wdt_count_reg[1]
+              (rising edge-triggered flip-flop clocked by clk2)
+  Endpoint: WDT_wrapper/wdt/wdt_count_reg[31]
+            (rising edge-triggered flip-flop clocked by clk2)
+  Path Group: clk2
+  Path Type: max
+
+  Des/Clust/Port     Wire Load Model       Library
+  ------------------------------------------------
+  top                enG1000K              fsa0m_a_generic_core_ss1p62v125c
+  WDT                enG5K                 fsa0m_a_generic_core_ss1p62v125c
+  WDT_DW01_inc_0     enG5K                 fsa0m_a_generic_core_ss1p62v125c
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock clk2 (rise edge)                                  0.00       0.00
+  clock network delay (ideal)                             1.00       1.00
+  WDT_wrapper/wdt/wdt_count_reg[1]/CK (QDFFRBN)           0.00       1.00 r
+  WDT_wrapper/wdt/wdt_count_reg[1]/Q (QDFFRBN)            0.44       1.44 f
+  WDT_wrapper/wdt/add_137/A[1] (WDT_DW01_inc_0)           0.00       1.44 f
+  WDT_wrapper/wdt/add_137/U1_1_1/C (HA1)                  0.25       1.69 f
+  WDT_wrapper/wdt/add_137/U1_1_2/C (HA1)                  0.21       1.89 f
+  WDT_wrapper/wdt/add_137/U1_1_3/C (HA1)                  0.21       2.10 f
+  WDT_wrapper/wdt/add_137/U1_1_4/C (HA1)                  0.21       2.31 f
+  WDT_wrapper/wdt/add_137/U1_1_5/C (HA1)                  0.21       2.52 f
+  WDT_wrapper/wdt/add_137/U1_1_6/C (HA1)                  0.21       2.73 f
+  WDT_wrapper/wdt/add_137/U1_1_7/C (HA1)                  0.21       2.94 f
+  WDT_wrapper/wdt/add_137/U1_1_8/C (HA1)                  0.21       3.14 f
+  WDT_wrapper/wdt/add_137/U1_1_9/C (HA1)                  0.21       3.35 f
+  WDT_wrapper/wdt/add_137/U1_1_10/C (HA1)                 0.21       3.56 f
+  WDT_wrapper/wdt/add_137/U1_1_11/C (HA1)                 0.21       3.77 f
+  WDT_wrapper/wdt/add_137/U1_1_12/C (HA1)                 0.21       3.98 f
+  WDT_wrapper/wdt/add_137/U1_1_13/C (HA1)                 0.21       4.18 f
+  WDT_wrapper/wdt/add_137/U1_1_14/C (HA1)                 0.21       4.39 f
+  WDT_wrapper/wdt/add_137/U1_1_15/C (HA1)                 0.21       4.60 f
+  WDT_wrapper/wdt/add_137/U1_1_16/C (HA1)                 0.21       4.81 f
+  WDT_wrapper/wdt/add_137/U1_1_17/C (HA1)                 0.21       5.02 f
+  WDT_wrapper/wdt/add_137/U1_1_18/C (HA1)                 0.21       5.22 f
+  WDT_wrapper/wdt/add_137/U1_1_19/C (HA1)                 0.21       5.43 f
+  WDT_wrapper/wdt/add_137/U1_1_20/C (HA1)                 0.21       5.64 f
+  WDT_wrapper/wdt/add_137/U1_1_21/C (HA1)                 0.21       5.85 f
+  WDT_wrapper/wdt/add_137/U1_1_22/C (HA1)                 0.21       6.06 f
+  WDT_wrapper/wdt/add_137/U1_1_23/C (HA1)                 0.21       6.27 f
+  WDT_wrapper/wdt/add_137/U1_1_24/C (HA1)                 0.21       6.47 f
+  WDT_wrapper/wdt/add_137/U1_1_25/C (HA1)                 0.21       6.68 f
+  WDT_wrapper/wdt/add_137/U1_1_26/C (HA1)                 0.21       6.89 f
+  WDT_wrapper/wdt/add_137/U1_1_27/C (HA1)                 0.21       7.10 f
+  WDT_wrapper/wdt/add_137/U1_1_28/C (HA1)                 0.21       7.31 f
+  WDT_wrapper/wdt/add_137/U1_1_29/C (HA1)                 0.21       7.51 f
+  WDT_wrapper/wdt/add_137/U1_1_30/C (HA1)                 0.20       7.72 f
+  WDT_wrapper/wdt/add_137/U1/O (XOR2HS)                   0.17       7.89 r
+  WDT_wrapper/wdt/add_137/SUM[31] (WDT_DW01_inc_0)        0.00       7.89 r
+  WDT_wrapper/wdt/U122/O (INV1S)                          0.10       7.98 f
+  WDT_wrapper/wdt/U121/O (MOAI1S)                         0.32       8.30 r
+  WDT_wrapper/wdt/wdt_count_reg[31]/D (QDFFRBN)           0.00       8.30 r
+  data arrival time                                                  8.30
+
+  clock clk2 (rise edge)                                100.00     100.00
+  clock network delay (ideal)                             1.00     101.00
+  clock uncertainty                                      -0.10     100.90
+  WDT_wrapper/wdt/wdt_count_reg[31]/CK (QDFFRBN)          0.00     100.90 r
+  library setup time                                     -0.20     100.70
+  data required time                                               100.70
+  --------------------------------------------------------------------------
+  data required time                                               100.70
+  data arrival time                                                 -8.30
+  --------------------------------------------------------------------------
+  slack (MET)                                                       92.40
+
+
+1
