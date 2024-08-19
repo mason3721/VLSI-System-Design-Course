@@ -1,0 +1,183 @@
+****************************************
+Report : qor
+Design : top
+Version: R-2020.09-SP3
+Date   : Mon Jan  8 23:01:21 2024
+****************************************
+
+
+Scenario           'Mfunc:max'
+Timing Path Group  'cpu_clk'
+----------------------------------------
+Levels of Logic:                     40
+Critical Path Length:              8.60
+Critical Path Slack:              -0.04
+Critical Path Clk Period:         10.00
+Total Negative Slack:             -1.15
+No. of Violating Paths:              69
+Worst Hold Violation:              0.00
+Total Hold Violation:              0.00
+No. of Hold Violations:               0
+----------------------------------------
+
+Scenario           'Mfunc:max'
+Timing Path Group  'axi_clk'
+----------------------------------------
+Levels of Logic:                     13
+Critical Path Length:              8.51
+Critical Path Slack:              15.83
+Critical Path Clk Period:         25.00
+Total Negative Slack:              0.00
+No. of Violating Paths:               0
+Worst Hold Violation:              0.00
+Total Hold Violation:              0.00
+No. of Hold Violations:               0
+----------------------------------------
+
+Scenario           'Mfunc:max'
+Timing Path Group  'rom_clk'
+----------------------------------------
+Levels of Logic:                      6
+Critical Path Length:              4.40
+Critical Path Slack:              45.13
+Critical Path Clk Period:         50.20
+Total Negative Slack:              0.00
+No. of Violating Paths:               0
+Worst Hold Violation:              0.00
+Total Hold Violation:              0.00
+No. of Hold Violations:               0
+----------------------------------------
+
+Scenario           'Mfunc:max'
+Timing Path Group  'dram_clk'
+----------------------------------------
+Levels of Logic:                     10
+Critical Path Length:              6.60
+Critical Path Slack:              23.14
+Critical Path Clk Period:         30.40
+Total Negative Slack:              0.00
+No. of Violating Paths:               0
+Worst Hold Violation:              0.00
+Total Hold Violation:              0.00
+No. of Hold Violations:               0
+----------------------------------------
+
+Scenario           'Mfunc:max'
+Timing Path Group  'pwm_clk'
+----------------------------------------
+Levels of Logic:                      3
+Critical Path Length:              8.11
+Critical Path Slack:              30.67
+Critical Path Clk Period:         39.00
+Total Negative Slack:              0.00
+No. of Violating Paths:               0
+Worst Hold Violation:              0.00
+Total Hold Violation:              0.00
+No. of Hold Violations:               0
+----------------------------------------
+
+Scenario           'Mfunc:min'
+Timing Path Group  '**in2reg_default**'
+----------------------------------------
+Worst Hold Violation:              0.00
+Total Hold Violation:              0.00
+No. of Hold Violations:               0
+----------------------------------------
+
+Scenario           'Mfunc:min'
+Timing Path Group  'cpu_clk'
+----------------------------------------
+Worst Hold Violation:              0.00
+Total Hold Violation:              0.00
+No. of Hold Violations:               0
+----------------------------------------
+
+Scenario           'Mfunc:min'
+Timing Path Group  'axi_clk'
+----------------------------------------
+Worst Hold Violation:              0.00
+Total Hold Violation:              0.00
+No. of Hold Violations:               0
+----------------------------------------
+
+Scenario           'Mfunc:min'
+Timing Path Group  'rom_clk'
+----------------------------------------
+Worst Hold Violation:              0.00
+Total Hold Violation:              0.00
+No. of Hold Violations:               0
+----------------------------------------
+
+Scenario           'Mfunc:min'
+Timing Path Group  'dram_clk'
+----------------------------------------
+Worst Hold Violation:              0.00
+Total Hold Violation:              0.00
+No. of Hold Violations:               0
+----------------------------------------
+
+Scenario           'Mfunc:min'
+Timing Path Group  'pwm_clk'
+----------------------------------------
+Worst Hold Violation:             -0.00
+Total Hold Violation:             -0.00
+No. of Hold Violations:               1
+----------------------------------------
+
+
+Cell Count
+----------------------------------------
+Hierarchical Cell Count:            102
+Hierarchical Port Count:          13116
+Leaf Cell Count:                  32857
+Buf/Inv Cell Count:                4939
+Buf Cell Count:                     620
+Inv Cell Count:                    4319
+CT Buf/Inv Cell Count:                0
+Combinational Cell Count:         26236
+   Single-bit Isolation Cell Count:                        0
+   Multi-bit Isolation Cell Count:                         0
+   Isolation Cell Banking Ratio:                           0.00%
+   Single-bit Level Shifter Cell Count:                    0
+   Multi-bit Level Shifter Cell Count:                     0
+   Level Shifter Cell Banking Ratio:                       0.00%
+   Single-bit ELS Cell Count:                              0
+   Multi-bit ELS Cell Count:                               0
+   ELS Cell Banking Ratio:                                 0.00%
+Sequential Cell Count:             6621
+   Integrated Clock-Gating Cell Count:                     0
+   Sequential Macro Cell Count:                            6
+   Single-bit Sequential Cell Count:                       6615
+   Multi-bit Sequential Cell Count:                        0
+   Sequential Cell Banking Ratio:                          0.00%
+   BitsPerflop:                                            1.00
+Macro Count:                          6
+----------------------------------------
+
+
+Area
+----------------------------------------
+Combinational Area:           458383.16
+Noncombinational Area:        375647.83
+Buf/Inv Area:                  43337.85
+Total Buffer Area:             12724.19
+Total Inverter Area:           30613.67
+Macro/Black Box Area:        6059060.11
+Net Area:                             0
+Net XLength:                 1249564.51
+Net YLength:                 1310439.12
+----------------------------------------
+Cell Area (netlist):                        6893091.11
+Cell Area (netlist and physical only):      6893091.11
+Net Length:                  2560003.63
+
+
+Design Rules
+----------------------------------------
+Total Number of Nets:             34314
+Nets with Violations:                82
+Max Trans Violations:                78
+Max Cap Violations:                  81
+----------------------------------------
+
+1

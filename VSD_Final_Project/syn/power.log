@@ -1,0 +1,169 @@
+Loading db file '/usr/cad/CBDK/CBDK018_UMC_Faraday_v1.0/orig_lib/fsa0m_a/2009Q2v2.0/GENERIC_CORE/FrontEnd/synopsys/fsa0m_a_generic_core_ss1p62v125c.db'
+Loading db file '/home/user2/vsd23/vsd2371/vsd_final_ex/sim/SRAM/SRAM_WC.db'
+Loading db file '/home/user2/vsd23/vsd2371/vsd_final_ex/sim/data_array/data_array_WC.db'
+Loading db file '/home/user2/vsd23/vsd2371/vsd_final_ex/sim/tag_array/tag_array_WC.db'
+Information: Propagating switching activity (low effort zero delay simulation). (PWR-6)
+Warning: Design has unannotated primary inputs. (PWR-414)
+Warning: Design has unannotated sequential cell outputs. (PWR-415)
+Warning: Design has unannotated black box outputs. (PWR-428)
+ 
+****************************************
+Report : power
+        -analysis_effort low
+Design : top
+Version: P-2019.03-SP1-1
+Date   : Mon Jan  8 22:11:30 2024
+****************************************
+
+
+Library(s) Used:
+
+    fsa0m_a_generic_core_ss1p62v125c (File: /usr/cad/CBDK/CBDK018_UMC_Faraday_v1.0/orig_lib/fsa0m_a/2009Q2v2.0/GENERIC_CORE/FrontEnd/synopsys/fsa0m_a_generic_core_ss1p62v125c.db)
+    SRAM_WC (File: /home/user2/vsd23/vsd2371/vsd_final_ex/sim/SRAM/SRAM_WC.db)
+    tag_array_WC (File: /home/user2/vsd23/vsd2371/vsd_final_ex/sim/tag_array/tag_array_WC.db)
+    data_array_WC (File: /home/user2/vsd23/vsd2371/vsd_final_ex/sim/data_array/data_array_WC.db)
+
+
+Operating Conditions: WCCOM   Library: fsa0m_a_generic_core_ss1p62v125c
+Wire Load Model Mode: enclosed
+
+Design        Wire Load Model            Library
+------------------------------------------------
+top                    enG1000K          fsa0m_a_generic_core_ss1p62v125c
+AXI                    enG50K            fsa0m_a_generic_core_ss1p62v125c
+CPU_wrapper            enG200K           fsa0m_a_generic_core_ss1p62v125c
+ROM_wrapper            enG5K             fsa0m_a_generic_core_ss1p62v125c
+SRAM_wrapper_1         enG500K           fsa0m_a_generic_core_ss1p62v125c
+sensor_ctrl_wrapper    enG5K             fsa0m_a_generic_core_ss1p62v125c
+WDT_wrapper            enG5K             fsa0m_a_generic_core_ss1p62v125c
+DRAM_wrapper           enG5K             fsa0m_a_generic_core_ss1p62v125c
+PWM_wrapper            enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_AW_6              enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_W_6               enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_B_6               enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_AR_6              enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_R_6               enG5K             fsa0m_a_generic_core_ss1p62v125c
+L1C_inst               enG50K            fsa0m_a_generic_core_ss1p62v125c
+L1C_data               enG50K            fsa0m_a_generic_core_ss1p62v125c
+CPU                    enG50K            fsa0m_a_generic_core_ss1p62v125c
+sensor_ctrl            enG5K             fsa0m_a_generic_core_ss1p62v125c
+WDT                    enG5K             fsa0m_a_generic_core_ss1p62v125c
+pwm                    enG5K             fsa0m_a_generic_core_ss1p62v125c
+data_array_wrapper_1   enG50K            fsa0m_a_generic_core_ss1p62v125c
+tag_array_wrapper_1    enG10K            fsa0m_a_generic_core_ss1p62v125c
+store_data_shift       enG5K             fsa0m_a_generic_core_ss1p62v125c
+Mux8_1                 enG5K             fsa0m_a_generic_core_ss1p62v125c
+PC                     enG5K             fsa0m_a_generic_core_ss1p62v125c
+PC_delay               enG5K             fsa0m_a_generic_core_ss1p62v125c
+Mux16_1                enG5K             fsa0m_a_generic_core_ss1p62v125c
+IF_ID                  enG5K             fsa0m_a_generic_core_ss1p62v125c
+Hazard_detector        enG5K             fsa0m_a_generic_core_ss1p62v125c
+Control                enG5K             fsa0m_a_generic_core_ss1p62v125c
+Mux2_1_4               enG5K             fsa0m_a_generic_core_ss1p62v125c
+Reg_file               enG30K            fsa0m_a_generic_core_ss1p62v125c
+Imm_generator          enG5K             fsa0m_a_generic_core_ss1p62v125c
+Comparator             enG5K             fsa0m_a_generic_core_ss1p62v125c
+ID_EXE                 enG5K             fsa0m_a_generic_core_ss1p62v125c
+Mux4_1_3               enG5K             fsa0m_a_generic_core_ss1p62v125c
+ALU                    enG30K            fsa0m_a_generic_core_ss1p62v125c
+CSR                    enG10K            fsa0m_a_generic_core_ss1p62v125c
+Forwarding             enG5K             fsa0m_a_generic_core_ss1p62v125c
+EXE_MEM                enG5K             fsa0m_a_generic_core_ss1p62v125c
+MEM_WB                 enG5K             fsa0m_a_generic_core_ss1p62v125c
+LH_LB_shift            enG5K             fsa0m_a_generic_core_ss1p62v125c
+SRAM_wrapper_0         enG500K           fsa0m_a_generic_core_ss1p62v125c
+FIFO_AW_0              enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_AW_1              enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_AW_2              enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_AW_3              enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_AW_4              enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_AW_5              enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_W_0               enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_W_1               enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_W_2               enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_W_3               enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_W_4               enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_W_5               enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_B_0               enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_B_1               enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_B_2               enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_B_3               enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_B_4               enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_B_5               enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_AR_0              enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_AR_1              enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_AR_2              enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_AR_3              enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_AR_4              enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_AR_5              enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_R_0               enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_R_1               enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_R_2               enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_R_3               enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_R_4               enG5K             fsa0m_a_generic_core_ss1p62v125c
+FIFO_R_5               enG5K             fsa0m_a_generic_core_ss1p62v125c
+data_array_wrapper_0   enG50K            fsa0m_a_generic_core_ss1p62v125c
+tag_array_wrapper_0    enG10K            fsa0m_a_generic_core_ss1p62v125c
+Mux2_1_0               enG5K             fsa0m_a_generic_core_ss1p62v125c
+Mux2_1_1               enG5K             fsa0m_a_generic_core_ss1p62v125c
+Mux2_1_2               enG5K             fsa0m_a_generic_core_ss1p62v125c
+Mux2_1_3               enG5K             fsa0m_a_generic_core_ss1p62v125c
+Mux4_1_0               enG5K             fsa0m_a_generic_core_ss1p62v125c
+Mux4_1_1               enG5K             fsa0m_a_generic_core_ss1p62v125c
+Mux4_1_2               enG5K             fsa0m_a_generic_core_ss1p62v125c
+pwm_DW01_inc_0         enG5K             fsa0m_a_generic_core_ss1p62v125c
+DRAM_wrapper_DW01_inc_0
+                       enG5K             fsa0m_a_generic_core_ss1p62v125c
+WDT_DW01_inc_0         enG5K             fsa0m_a_generic_core_ss1p62v125c
+SRAM_wrapper_0_DW01_inc_0
+                       enG5K             fsa0m_a_generic_core_ss1p62v125c
+SRAM_wrapper_1_DW01_inc_0
+                       enG5K             fsa0m_a_generic_core_ss1p62v125c
+ROM_wrapper_DW01_inc_0 enG5K             fsa0m_a_generic_core_ss1p62v125c
+CPU_DW01_add_1         enG5K             fsa0m_a_generic_core_ss1p62v125c
+CPU_DW01_add_4         enG5K             fsa0m_a_generic_core_ss1p62v125c
+CSR_DW01_sub_0         enG5K             fsa0m_a_generic_core_ss1p62v125c
+CSR_DW01_add_0         enG5K             fsa0m_a_generic_core_ss1p62v125c
+ALU_DW_cmp_0           enG5K             fsa0m_a_generic_core_ss1p62v125c
+ALU_DW_cmp_1           enG5K             fsa0m_a_generic_core_ss1p62v125c
+ALU_DW01_sub_1         enG5K             fsa0m_a_generic_core_ss1p62v125c
+ALU_DW01_add_1         enG5K             fsa0m_a_generic_core_ss1p62v125c
+CSR_DW01_inc_2         enG5K             fsa0m_a_generic_core_ss1p62v125c
+CSR_DW01_inc_3         enG5K             fsa0m_a_generic_core_ss1p62v125c
+Comparator_DW01_cmp6_1 enG5K             fsa0m_a_generic_core_ss1p62v125c
+CPU_DW01_add_7         enG5K             fsa0m_a_generic_core_ss1p62v125c
+ALU_DW_mult_tc_6       enG30K            fsa0m_a_generic_core_ss1p62v125c
+CPU_DW01_add_8         enG5K             fsa0m_a_generic_core_ss1p62v125c
+CPU_DW01_add_9         enG5K             fsa0m_a_generic_core_ss1p62v125c
+
+
+Global Operating Voltage = 1.62 
+Power-specific unit information :
+    Voltage Units = 1V
+    Capacitance Units = 1.000000pf
+    Time Units = 1ns
+    Dynamic Power Units = 1mW    (derived from V,C,T units)
+    Leakage Power Units = 1pW
+
+
+  Cell Internal Power  = 256.5117 mW  (100%)
+  Net Switching Power  =   1.2272 mW    (0%)
+                         ---------
+Total Dynamic Power    = 257.7389 mW  (100%)
+
+Cell Leakage Power     =   1.3238 mW
+
+
+                 Internal         Switching           Leakage            Total
+Power Group      Power            Power               Power              Power   (   %    )  Attrs
+--------------------------------------------------------------------------------------------------
+io_pad             0.0000            0.0000            0.0000            0.0000  (   0.00%)
+memory           236.8117        8.8243e-02        1.2679e+09          238.1679  (  91.93%)
+black_box          0.0000            0.0000            0.0000            0.0000  (   0.00%)
+clock_network      0.0000            0.0000            0.0000            0.0000  (   0.00%)
+register          19.4075        2.4421e-02        2.5732e+07           19.4578  (   7.51%)
+sequential         0.0000            0.0000            0.0000            0.0000  (   0.00%)
+combinational      0.2923            1.1143        3.0101e+07            1.4367  (   0.55%)
+--------------------------------------------------------------------------------------------------
+Total            256.5115 mW         1.2270 mW     1.3238e+09 pW       259.0623 mW
+1

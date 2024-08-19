@@ -1,0 +1,14 @@
+****************************************
+Report : scenario
+Design : top
+Version: R-2020.09-SP3
+Date   : Mon Jan  8 22:42:24 2024
+****************************************
+
+                                                                     Leakage  Dynamic                              Cell  Signal
+Name            Mode            Corner          Active  Setup  Hold  Power    Power    Max_tran  Max_cap  Min_cap  EM    EM
+-------------------------------------------------------------------------------------------------------------------------------
+Mfunc:max *     Mfunc           max             true    true   true  true     true     true      true     true     false false
+Mfunc:min *     Mfunc           min             true    false  true  false    false    true      true     true     false false
+
+1

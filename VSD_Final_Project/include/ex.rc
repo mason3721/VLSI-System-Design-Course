@@ -1,0 +1,107 @@
+Magic 271485
+Revision Verdi_U-2023.03-SP2
+
+; Window Layout <x> <y> <width> <height> <signalwidth> <valuewidth>
+viewPort 0 0 1920 1009 350 63
+
+; File list:
+; openDirFile [-d delimiter] [-s time_offset] [-rf auto_bus_rule_file] path_name file_name
+openDirFile -d / "" "/home/user2/vsd23/vsd2371/vsd_final_ex/build/top.fsdb"
+
+; file time scale:
+; fileTimeScale ### s|ms|us|ns|ps
+
+; signal spacing:
+signalSpacing 5
+
+; windowTimeUnit is used for zoom, cursor & marker
+; waveform viewport range
+zoom 200837800.426411 200899684.690447
+cursor 200692500.000000
+marker 0.000000
+
+; user define markers
+; userMarker time_pos marker_name color linestyle
+; visible top row signal index
+top 0
+; marker line index
+markerPos 19
+
+; event list
+; addEvent event_name event_expression
+; curEvent event_name
+
+
+
+COMPLEX_EVENT_BEGIN
+
+
+COMPLEX_EVENT_END
+
+
+
+; toolbar current search type
+; curSTATUS search_type
+curSTATUS ByValue
+
+
+addGroup "G1"
+activeDirFile "" "/home/user2/vsd23/vsd2371/vsd_final_ex/build/top.fsdb"
+addSignal -h 15 /top_tb/TOP/PWM/pwm0/clk
+addSignal -h 15 -UNSIGNED -HEX -holdScope counter[7:0]
+addSignal -h 15 -UNSIGNED -HEX -holdScope num[31:0]
+addSignal -h 15 -UNSIGNED -HEX -holdScope num_local[31:0]
+addSignal -h 15 -holdScope pwm_o_0
+addSignal -h 15 -holdScope pwm_o_1
+addSignal -h 15 -holdScope pwm_o_2
+addSignal -h 15 -holdScope pwm_o_3
+addSignal -h 15 -holdScope rst
+addGroup "G2"
+addSignal -h 15 -UNSIGNED -UDEC /top_tb/TOP/sensor_ctrl/sensor_out_0[31:0]
+addSignal -h 15 -UNSIGNED -UDEC -holdScope sensor_out_1[31:0]
+addSignal -h 15 -UNSIGNED -UDEC -holdScope sensor_out_2[31:0]
+addSignal -h 15 -UNSIGNED -UDEC -holdScope sensor_out_3[31:0]
+addSignal -h 15 -UNSIGNED -UDEC -holdScope sensor_out_4[31:0]
+addSignal -h 15 -UNSIGNED -UDEC -holdScope sensor_out_5[31:0]
+addSignal -h 15 -UNSIGNED -UDEC -holdScope sensor_out_6[31:0]
+addSignal -h 15 -UNSIGNED -UDEC -holdScope sensor_out_7[31:0]
+addSignal -h 15 -UNSIGNED -HEX -holdScope RDATA_S[31:0]
+addGroup "G3"
+addSignal -h 15 /top_tb/TOP/CPU_wrapper/CPU2/WFI
+addSignal -h 15 -holdScope sen_pulse
+addSignal -h 15 /top_tb/TOP/sensor_ctrl/sctrl_en
+addGroup "G4"
+addSignal -h 15 /top_tb/TOP/sensor_ctrl/sctrl_clear
+addGroup "G5"
+addSignal -h 15 -UNSIGNED -HEX /top_tb/TOP/axi_duv_bridge/write_curr_state[2:0]
+addGroup "G6"
+addSignal -h 15 -UNSIGNED -HEX /top_tb/TOP/CPU_wrapper/CPU2/DM_wdata[31:0]
+addSignal -h 15 -UNSIGNED -HEX -holdScope DM_wen[3:0]
+addGroup "G7"
+
+; getSignalForm Scope Hierarchy Status
+; active file of getSignalForm
+activeDirFile "" "/home/user2/vsd23/vsd2371/vsd_final_ex/build/top.fsdb"
+
+GETSIGNALFORM_SCOPE_HIERARCHY_BEGIN
+getSignalForm close
+
+"/top_tb"
+"/top_tb/TOP"
+"/top_tb/TOP/CPU_wrapper"
+"/top_tb/TOP/PWM"
+
+SCOPE_LIST_BEGIN
+"/top_tb"
+"/top_tb/TOP"
+"/top_tb/TOP/PWM"
+"/top_tb/TOP/PWM/pwm0"
+"/top_tb/TOP/sensor_ctrl"
+"/top_tb/TOP/CPU_wrapper"
+"/top_tb/TOP/CPU_wrapper/CPU2"
+"/top_tb/TOP/axi_duv_bridge"
+SCOPE_LIST_END
+
+GETSIGNALFORM_SCOPE_HIERARCHY_END
+
+

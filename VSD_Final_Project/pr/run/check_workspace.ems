@@ -1,0 +1,1182 @@
+<Database>
+Name/home/user2/vsd23/vsd2371/vsd_final_ex/pr/run/check_workspace.ems
+Creation TimeMon Jan  8 22:40:45 2024
+Modified TimeMon Jan  8 22:40:48 2024
+Design Name
+Library Name
+</Database>
+<RuleCount>
+LM-0345
+LM-0501
+LM-0523
+LM-109770
+LM-175385
+</RuleCount>
+<UserDefinedRules>
+</UserDefinedRules>
+<Messages>
+LM-109para1fsa0m_a_generic_core_c/AN2/GND10
+LM-109para1fsa0m_a_generic_core_c/AN2/VCC10
+LM-175para1related power/ground10para2AN210
+LM-109para1fsa0m_a_generic_core_c/AN2B1/GND10
+LM-109para1fsa0m_a_generic_core_c/AN2B1/VCC10
+LM-175para1related power/ground10para2AN2B110
+LM-109para1fsa0m_a_generic_core_c/AN2B1P/GND10
+LM-109para1fsa0m_a_generic_core_c/AN2B1P/VCC10
+LM-175para1related power/ground10para2AN2B1P10
+LM-109para1fsa0m_a_generic_core_c/AN2B1S/GND10
+LM-109para1fsa0m_a_generic_core_c/AN2B1S/VCC10
+LM-175para1related power/ground10para2AN2B1S10
+LM-109para1fsa0m_a_generic_core_c/AN2B1T/GND10
+LM-109para1fsa0m_a_generic_core_c/AN2B1T/VCC10
+LM-175para1related power/ground10para2AN2B1T10
+LM-109para1fsa0m_a_generic_core_c/AN2P/GND10
+LM-109para1fsa0m_a_generic_core_c/AN2P/VCC10
+LM-175para1related power/ground10para2AN2P10
+LM-109para1fsa0m_a_generic_core_c/AN2S/GND10
+LM-109para1fsa0m_a_generic_core_c/AN2S/VCC10
+LM-175para1related power/ground10para2AN2S10
+LM-109para1fsa0m_a_generic_core_c/AN2T/GND10
+LM-109para1fsa0m_a_generic_core_c/AN2T/VCC10
+LM-175para1related power/ground10para2AN2T10
+LM-109para1fsa0m_a_generic_core_c/AN3/GND10
+LM-109para1fsa0m_a_generic_core_c/AN3/VCC10
+LM-175para1related power/ground10para2AN310
+LM-109para1fsa0m_a_generic_core_c/AN3B1/GND10
+LM-109para1fsa0m_a_generic_core_c/AN3B1/VCC10
+LM-175para1related power/ground10para2AN3B110
+LM-109para1fsa0m_a_generic_core_c/AN3B1P/GND10
+LM-109para1fsa0m_a_generic_core_c/AN3B1P/VCC10
+LM-175para1related power/ground10para2AN3B1P10
+LM-109para1fsa0m_a_generic_core_c/AN3B1S/GND10
+LM-109para1fsa0m_a_generic_core_c/AN3B1S/VCC10
+LM-175para1related power/ground10para2AN3B1S10
+LM-109para1fsa0m_a_generic_core_c/AN3B1T/GND10
+LM-109para1fsa0m_a_generic_core_c/AN3B1T/VCC10
+LM-175para1related power/ground10para2AN3B1T10
+LM-109para1fsa0m_a_generic_core_c/AN3B2/GND10
+LM-109para1fsa0m_a_generic_core_c/AN3B2/VCC10
+LM-175para1related power/ground10para2AN3B210
+LM-109para1fsa0m_a_generic_core_c/AN3B2P/GND10
+LM-109para1fsa0m_a_generic_core_c/AN3B2P/VCC10
+LM-175para1related power/ground10para2AN3B2P10
+LM-109para1fsa0m_a_generic_core_c/AN3B2S/GND10
+LM-109para1fsa0m_a_generic_core_c/AN3B2S/VCC10
+LM-175para1related power/ground10para2AN3B2S10
+LM-109para1fsa0m_a_generic_core_c/AN3B2T/GND10
+LM-109para1fsa0m_a_generic_core_c/AN3B2T/VCC10
+LM-175para1related power/ground10para2AN3B2T10
+LM-109para1fsa0m_a_generic_core_c/AN3P/GND10
+LM-109para1fsa0m_a_generic_core_c/AN3P/VCC10
+LM-175para1related power/ground10para2AN3P10
+LM-109para1fsa0m_a_generic_core_c/AN3S/GND10
+LM-109para1fsa0m_a_generic_core_c/AN3S/VCC10
+LM-175para1related power/ground10para2AN3S10
+LM-109para1fsa0m_a_generic_core_c/AN3T/GND10
+LM-109para1fsa0m_a_generic_core_c/AN3T/VCC10
+LM-175para1related power/ground10para2AN3T10
+LM-109para1fsa0m_a_generic_core_c/AN4/GND10
+LM-109para1fsa0m_a_generic_core_c/AN4/VCC10
+LM-175para1related power/ground10para2AN410
+LM-109para1fsa0m_a_generic_core_c/AN4B1/GND10
+LM-109para1fsa0m_a_generic_core_c/AN4B1/VCC10
+LM-175para1related power/ground10para2AN4B110
+LM-109para1fsa0m_a_generic_core_c/AN4B1P/GND10
+LM-109para1fsa0m_a_generic_core_c/AN4B1P/VCC10
+LM-175para1related power/ground10para2AN4B1P10
+LM-109para1fsa0m_a_generic_core_c/AN4B1S/GND10
+LM-109para1fsa0m_a_generic_core_c/AN4B1S/VCC10
+LM-175para1related power/ground10para2AN4B1S10
+LM-109para1fsa0m_a_generic_core_c/AN4B1T/GND10
+LM-109para1fsa0m_a_generic_core_c/AN4B1T/VCC10
+LM-175para1related power/ground10para2AN4B1T10
+LM-109para1fsa0m_a_generic_core_c/AN4P/GND10
+LM-109para1fsa0m_a_generic_core_c/AN4P/VCC10
+LM-175para1related power/ground10para2AN4P10
+LM-109para1fsa0m_a_generic_core_c/AN4S/GND10
+LM-109para1fsa0m_a_generic_core_c/AN4S/VCC10
+LM-175para1related power/ground10para2AN4S10
+LM-109para1fsa0m_a_generic_core_c/AN4T/GND10
+LM-109para1fsa0m_a_generic_core_c/AN4T/VCC10
+LM-175para1related power/ground10para2AN4T10
+LM-109para1fsa0m_a_generic_core_c/ANTENNA/GND10
+LM-109para1fsa0m_a_generic_core_c/ANTENNA/VCC10
+LM-175para1related power/ground10para2ANTENNA10
+LM-109para1fsa0m_a_generic_core_c/AO112/GND10
+LM-109para1fsa0m_a_generic_core_c/AO112/VCC10
+LM-175para1related power/ground10para2AO11210
+LM-109para1fsa0m_a_generic_core_c/AO112P/GND10
+LM-109para1fsa0m_a_generic_core_c/AO112P/VCC10
+LM-175para1related power/ground10para2AO112P10
+LM-109para1fsa0m_a_generic_core_c/AO112S/GND10
+LM-109para1fsa0m_a_generic_core_c/AO112S/VCC10
+LM-175para1related power/ground10para2AO112S10
+LM-109para1fsa0m_a_generic_core_c/AO112T/GND10
+LM-109para1fsa0m_a_generic_core_c/AO112T/VCC10
+LM-175para1related power/ground10para2AO112T10
+LM-109para1fsa0m_a_generic_core_c/AO12/GND10
+LM-109para1fsa0m_a_generic_core_c/AO12/VCC10
+LM-175para1related power/ground10para2AO1210
+LM-109para1fsa0m_a_generic_core_c/AO12P/GND10
+LM-109para1fsa0m_a_generic_core_c/AO12P/VCC10
+LM-175para1related power/ground10para2AO12P10
+LM-109para1fsa0m_a_generic_core_c/AO12S/GND10
+LM-109para1fsa0m_a_generic_core_c/AO12S/VCC10
+LM-175para1related power/ground10para2AO12S10
+LM-109para1fsa0m_a_generic_core_c/AO12T/GND10
+LM-109para1fsa0m_a_generic_core_c/AO12T/VCC10
+LM-175para1related power/ground10para2AO12T10
+LM-109para1fsa0m_a_generic_core_c/AO13/GND10
+LM-109para1fsa0m_a_generic_core_c/AO13/VCC10
+LM-175para1related power/ground10para2AO1310
+LM-109para1fsa0m_a_generic_core_c/AO13P/GND10
+LM-109para1fsa0m_a_generic_core_c/AO13P/VCC10
+LM-175para1related power/ground10para2AO13P10
+LM-109para1fsa0m_a_generic_core_c/AO13S/GND10
+LM-109para1fsa0m_a_generic_core_c/AO13S/VCC10
+LM-175para1related power/ground10para2AO13S10
+LM-109para1fsa0m_a_generic_core_c/AO13T/GND10
+LM-109para1fsa0m_a_generic_core_c/AO13T/VCC10
+LM-175para1related power/ground10para2AO13T10
+LM-109para1fsa0m_a_generic_core_c/AO22/GND10
+LM-109para1fsa0m_a_generic_core_c/AO22/VCC10
+LM-175para1related power/ground10para2AO2210
+LM-109para1fsa0m_a_generic_core_c/AO222/GND10
+LM-109para1fsa0m_a_generic_core_c/AO222/VCC10
+LM-175para1related power/ground10para2AO22210
+LM-109para1fsa0m_a_generic_core_c/AO222P/GND10
+LM-109para1fsa0m_a_generic_core_c/AO222P/VCC10
+LM-175para1related power/ground10para2AO222P10
+LM-109para1fsa0m_a_generic_core_c/AO222S/GND10
+LM-109para1fsa0m_a_generic_core_c/AO222S/VCC10
+LM-175para1related power/ground10para2AO222S10
+LM-109para1fsa0m_a_generic_core_c/AO222T/GND10
+LM-109para1fsa0m_a_generic_core_c/AO222T/VCC10
+LM-175para1related power/ground10para2AO222T10
+LM-109para1fsa0m_a_generic_core_c/AO22P/GND10
+LM-109para1fsa0m_a_generic_core_c/AO22P/VCC10
+LM-175para1related power/ground10para2AO22P10
+LM-109para1fsa0m_a_generic_core_c/AO22S/GND10
+LM-109para1fsa0m_a_generic_core_c/AO22S/VCC10
+LM-175para1related power/ground10para2AO22S10
+LM-109para1fsa0m_a_generic_core_c/AO22T/GND10
+LM-109para1fsa0m_a_generic_core_c/AO22T/VCC10
+LM-175para1related power/ground10para2AO22T10
+LM-109para1fsa0m_a_generic_core_c/AOI112H/GND10
+LM-109para1fsa0m_a_generic_core_c/AOI112H/VCC10
+LM-175para1related power/ground10para2AOI112H10
+LM-109para1fsa0m_a_generic_core_c/AOI112HP/GND10
+LM-109para1fsa0m_a_generic_core_c/AOI112HP/VCC10
+LM-175para1related power/ground10para2AOI112HP10
+LM-109para1fsa0m_a_generic_core_c/AOI112HS/GND10
+LM-109para1fsa0m_a_generic_core_c/AOI112HS/VCC10
+LM-175para1related power/ground10para2AOI112HS10
+LM-109para1fsa0m_a_generic_core_c/AOI112HT/GND10
+LM-109para1fsa0m_a_generic_core_c/AOI112HT/VCC10
+LM-175para1related power/ground10para2AOI112HT10
+LM-109para1fsa0m_a_generic_core_c/AOI12H/GND10
+LM-109para1fsa0m_a_generic_core_c/AOI12H/VCC10
+LM-175para1related power/ground10para2AOI12H10
+LM-109para1fsa0m_a_generic_core_c/AOI12HP/GND10
+LM-109para1fsa0m_a_generic_core_c/AOI12HP/VCC10
+LM-175para1related power/ground10para2AOI12HP10
+LM-109para1fsa0m_a_generic_core_c/AOI12HS/GND10
+LM-109para1fsa0m_a_generic_core_c/AOI12HS/VCC10
+LM-175para1related power/ground10para2AOI12HS10
+LM-109para1fsa0m_a_generic_core_c/AOI12HT/GND10
+LM-109para1fsa0m_a_generic_core_c/AOI12HT/VCC10
+LM-175para1related power/ground10para2AOI12HT10
+LM-109para1fsa0m_a_generic_core_c/AOI13H/GND10
+LM-109para1fsa0m_a_generic_core_c/AOI13H/VCC10
+LM-175para1related power/ground10para2AOI13H10
+LM-109para1fsa0m_a_generic_core_c/AOI13HP/GND10
+LM-109para1fsa0m_a_generic_core_c/AOI13HP/VCC10
+LM-175para1related power/ground10para2AOI13HP10
+LM-109para1fsa0m_a_generic_core_c/AOI13HS/GND10
+LM-109para1fsa0m_a_generic_core_c/AOI13HS/VCC10
+LM-175para1related power/ground10para2AOI13HS10
+LM-109para1fsa0m_a_generic_core_c/AOI13HT/GND10
+LM-109para1fsa0m_a_generic_core_c/AOI13HT/VCC10
+LM-175para1related power/ground10para2AOI13HT10
+LM-109para1fsa0m_a_generic_core_c/AOI222H/GND10
+LM-109para1fsa0m_a_generic_core_c/AOI222H/VCC10
+LM-175para1related power/ground10para2AOI222H10
+LM-109para1fsa0m_a_generic_core_c/AOI222HP/GND10
+LM-109para1fsa0m_a_generic_core_c/AOI222HP/VCC10
+LM-175para1related power/ground10para2AOI222HP10
+LM-109para1fsa0m_a_generic_core_c/AOI222HS/GND10
+LM-109para1fsa0m_a_generic_core_c/AOI222HS/VCC10
+LM-175para1related power/ground10para2AOI222HS10
+LM-109para1fsa0m_a_generic_core_c/AOI22H/GND10
+LM-109para1fsa0m_a_generic_core_c/AOI22H/VCC10
+LM-175para1related power/ground10para2AOI22H10
+LM-109para1fsa0m_a_generic_core_c/AOI22HP/GND10
+LM-109para1fsa0m_a_generic_core_c/AOI22HP/VCC10
+LM-175para1related power/ground10para2AOI22HP10
+LM-109para1fsa0m_a_generic_core_c/AOI22HT/GND10
+LM-109para1fsa0m_a_generic_core_c/AOI22HT/VCC10
+LM-175para1related power/ground10para2AOI22HT10
+LM-109para1fsa0m_a_generic_core_c/AOI22S/GND10
+LM-109para1fsa0m_a_generic_core_c/AOI22S/VCC10
+LM-175para1related power/ground10para2AOI22S10
+LM-109para1fsa0m_a_generic_core_c/BHD1/GND10
+LM-109para1fsa0m_a_generic_core_c/BHD1/VCC10
+LM-175para1related power/ground10para2BHD110
+LM-109para1fsa0m_a_generic_core_c/BUF1/GND10
+LM-109para1fsa0m_a_generic_core_c/BUF1/VCC10
+LM-175para1related power/ground10para2BUF110
+LM-109para1fsa0m_a_generic_core_c/BUF12CK/GND10
+LM-109para1fsa0m_a_generic_core_c/BUF12CK/VCC10
+LM-175para1related power/ground10para2BUF12CK10
+LM-109para1fsa0m_a_generic_core_c/BUF1CK/GND10
+LM-109para1fsa0m_a_generic_core_c/BUF1CK/VCC10
+LM-175para1related power/ground10para2BUF1CK10
+LM-109para1fsa0m_a_generic_core_c/BUF1S/GND10
+LM-109para1fsa0m_a_generic_core_c/BUF1S/VCC10
+LM-175para1related power/ground10para2BUF1S10
+LM-109para1fsa0m_a_generic_core_c/BUF2/GND10
+LM-109para1fsa0m_a_generic_core_c/BUF2/VCC10
+LM-175para1related power/ground10para2BUF210
+LM-109para1fsa0m_a_generic_core_c/BUF2CK/GND10
+LM-109para1fsa0m_a_generic_core_c/BUF2CK/VCC10
+LM-175para1related power/ground10para2BUF2CK10
+LM-109para1fsa0m_a_generic_core_c/BUF3/GND10
+LM-109para1fsa0m_a_generic_core_c/BUF3/VCC10
+LM-175para1related power/ground10para2BUF310
+LM-109para1fsa0m_a_generic_core_c/BUF3CK/GND10
+LM-109para1fsa0m_a_generic_core_c/BUF3CK/VCC10
+LM-175para1related power/ground10para2BUF3CK10
+LM-109para1fsa0m_a_generic_core_c/BUF4/GND10
+LM-109para1fsa0m_a_generic_core_c/BUF4/VCC10
+LM-175para1related power/ground10para2BUF410
+LM-109para1fsa0m_a_generic_core_c/BUF4CK/GND10
+LM-109para1fsa0m_a_generic_core_c/BUF4CK/VCC10
+LM-175para1related power/ground10para2BUF4CK10
+LM-109para1fsa0m_a_generic_core_c/BUF6/GND10
+LM-109para1fsa0m_a_generic_core_c/BUF6/VCC10
+LM-175para1related power/ground10para2BUF610
+LM-109para1fsa0m_a_generic_core_c/BUF6CK/GND10
+LM-109para1fsa0m_a_generic_core_c/BUF6CK/VCC10
+LM-175para1related power/ground10para2BUF6CK10
+LM-109para1fsa0m_a_generic_core_c/BUF8/GND10
+LM-109para1fsa0m_a_generic_core_c/BUF8/VCC10
+LM-175para1related power/ground10para2BUF810
+LM-109para1fsa0m_a_generic_core_c/BUF8CK/GND10
+LM-109para1fsa0m_a_generic_core_c/BUF8CK/VCC10
+LM-175para1related power/ground10para2BUF8CK10
+LM-109para1fsa0m_a_generic_core_c/BUFB1/GND10
+LM-109para1fsa0m_a_generic_core_c/BUFB1/VCC10
+LM-175para1related power/ground10para2BUFB110
+LM-109para1fsa0m_a_generic_core_c/BUFB2/GND10
+LM-109para1fsa0m_a_generic_core_c/BUFB2/VCC10
+LM-175para1related power/ground10para2BUFB210
+LM-109para1fsa0m_a_generic_core_c/BUFB3/GND10
+LM-109para1fsa0m_a_generic_core_c/BUFB3/VCC10
+LM-175para1related power/ground10para2BUFB310
+LM-109para1fsa0m_a_generic_core_c/BUFT1/GND10
+LM-109para1fsa0m_a_generic_core_c/BUFT1/VCC10
+LM-175para1related power/ground10para2BUFT110
+LM-109para1fsa0m_a_generic_core_c/BUFT2/GND10
+LM-109para1fsa0m_a_generic_core_c/BUFT2/VCC10
+LM-175para1related power/ground10para2BUFT210
+LM-109para1fsa0m_a_generic_core_c/BUFT3/GND10
+LM-109para1fsa0m_a_generic_core_c/BUFT3/VCC10
+LM-175para1related power/ground10para2BUFT310
+LM-109para1fsa0m_a_generic_core_c/BUFT4/GND10
+LM-109para1fsa0m_a_generic_core_c/BUFT4/VCC10
+LM-175para1related power/ground10para2BUFT410
+LM-109para1fsa0m_a_generic_core_c/CMPE4/GND10
+LM-109para1fsa0m_a_generic_core_c/CMPE4/VCC10
+LM-175para1related power/ground10para2CMPE410
+LM-109para1fsa0m_a_generic_core_c/CMPE4S/GND10
+LM-109para1fsa0m_a_generic_core_c/CMPE4S/VCC10
+LM-175para1related power/ground10para2CMPE4S10
+LM-109para1fsa0m_a_generic_core_c/DBFRBN/GND10
+LM-109para1fsa0m_a_generic_core_c/DBFRBN/VCC10
+LM-175para1related power/ground10para2DBFRBN10
+LM-109para1fsa0m_a_generic_core_c/DBFRSBN/GND10
+LM-109para1fsa0m_a_generic_core_c/DBFRSBN/VCC10
+LM-175para1related power/ground10para2DBFRSBN10
+LM-109para1fsa0m_a_generic_core_c/DBHRBN/GND10
+LM-109para1fsa0m_a_generic_core_c/DBHRBN/VCC10
+LM-175para1related power/ground10para2DBHRBN10
+LM-109para1fsa0m_a_generic_core_c/DBHRBS/GND10
+LM-109para1fsa0m_a_generic_core_c/DBHRBS/VCC10
+LM-175para1related power/ground10para2DBHRBS10
+LM-109para1fsa0m_a_generic_core_c/DBZRBN/GND10
+LM-109para1fsa0m_a_generic_core_c/DBZRBN/VCC10
+LM-175para1related power/ground10para2DBZRBN10
+LM-109para1fsa0m_a_generic_core_c/DBZRSBN/GND10
+LM-109para1fsa0m_a_generic_core_c/DBZRSBN/VCC10
+LM-175para1related power/ground10para2DBZRSBN10
+LM-109para1fsa0m_a_generic_core_c/DELA/GND10
+LM-109para1fsa0m_a_generic_core_c/DELA/VCC10
+LM-175para1related power/ground10para2DELA10
+LM-109para1fsa0m_a_generic_core_c/DELB/GND10
+LM-109para1fsa0m_a_generic_core_c/DELB/VCC10
+LM-175para1related power/ground10para2DELB10
+LM-109para1fsa0m_a_generic_core_c/DELC/GND10
+LM-109para1fsa0m_a_generic_core_c/DELC/VCC10
+LM-175para1related power/ground10para2DELC10
+LM-109para1fsa0m_a_generic_core_c/DFCLRBN/GND10
+LM-109para1fsa0m_a_generic_core_c/DFCLRBN/VCC10
+LM-175para1related power/ground10para2DFCLRBN10
+LM-109para1fsa0m_a_generic_core_c/DFCRBN/GND10
+LM-109para1fsa0m_a_generic_core_c/DFCRBN/VCC10
+LM-175para1related power/ground10para2DFCRBN10
+LM-109para1fsa0m_a_generic_core_c/DFFN/GND10
+LM-109para1fsa0m_a_generic_core_c/DFFN/VCC10
+LM-175para1related power/ground10para2DFFN10
+LM-109para1fsa0m_a_generic_core_c/DFFP/GND10
+LM-109para1fsa0m_a_generic_core_c/DFFP/VCC10
+LM-175para1related power/ground10para2DFFP10
+LM-109para1fsa0m_a_generic_core_c/DFFRBN/GND10
+LM-109para1fsa0m_a_generic_core_c/DFFRBN/VCC10
+LM-175para1related power/ground10para2DFFRBN10
+LM-109para1fsa0m_a_generic_core_c/DFFRBP/GND10
+LM-109para1fsa0m_a_generic_core_c/DFFRBP/VCC10
+LM-175para1related power/ground10para2DFFRBP10
+LM-109para1fsa0m_a_generic_core_c/DFFRBS/GND10
+LM-109para1fsa0m_a_generic_core_c/DFFRBS/VCC10
+LM-175para1related power/ground10para2DFFRBS10
+LM-109para1fsa0m_a_generic_core_c/DFFRBT/GND10
+LM-109para1fsa0m_a_generic_core_c/DFFRBT/VCC10
+LM-175para1related power/ground10para2DFFRBT10
+LM-109para1fsa0m_a_generic_core_c/DFFRSBN/GND10
+LM-109para1fsa0m_a_generic_core_c/DFFRSBN/VCC10
+LM-175para1related power/ground10para2DFFRSBN10
+LM-109para1fsa0m_a_generic_core_c/DFFS/GND10
+LM-109para1fsa0m_a_generic_core_c/DFFS/VCC10
+LM-175para1related power/ground10para2DFFS10
+LM-109para1fsa0m_a_generic_core_c/DFFSBN/GND10
+LM-109para1fsa0m_a_generic_core_c/DFFSBN/VCC10
+LM-175para1related power/ground10para2DFFSBN10
+LM-109para1fsa0m_a_generic_core_c/DFTRBN/GND10
+LM-109para1fsa0m_a_generic_core_c/DFTRBN/VCC10
+LM-175para1related power/ground10para2DFTRBN10
+LM-109para1fsa0m_a_generic_core_c/DFTRBS/GND10
+LM-109para1fsa0m_a_generic_core_c/DFTRBS/VCC10
+LM-175para1related power/ground10para2DFTRBS10
+LM-109para1fsa0m_a_generic_core_c/DFZCLRBN/GND10
+LM-109para1fsa0m_a_generic_core_c/DFZCLRBN/VCC10
+LM-175para1related power/ground10para2DFZCLRBN10
+LM-109para1fsa0m_a_generic_core_c/DFZCRBN/GND10
+LM-109para1fsa0m_a_generic_core_c/DFZCRBN/VCC10
+LM-175para1related power/ground10para2DFZCRBN10
+LM-109para1fsa0m_a_generic_core_c/DFZN/GND10
+LM-109para1fsa0m_a_generic_core_c/DFZN/VCC10
+LM-175para1related power/ground10para2DFZN10
+LM-109para1fsa0m_a_generic_core_c/DFZP/GND10
+LM-109para1fsa0m_a_generic_core_c/DFZP/VCC10
+LM-175para1related power/ground10para2DFZP10
+LM-109para1fsa0m_a_generic_core_c/DFZRBN/GND10
+LM-109para1fsa0m_a_generic_core_c/DFZRBN/VCC10
+LM-175para1related power/ground10para2DFZRBN10
+LM-109para1fsa0m_a_generic_core_c/DFZRBP/GND10
+LM-109para1fsa0m_a_generic_core_c/DFZRBP/VCC10
+LM-175para1related power/ground10para2DFZRBP10
+LM-109para1fsa0m_a_generic_core_c/DFZRBS/GND10
+LM-109para1fsa0m_a_generic_core_c/DFZRBS/VCC10
+LM-175para1related power/ground10para2DFZRBS10
+LM-109para1fsa0m_a_generic_core_c/DFZRBT/GND10
+LM-109para1fsa0m_a_generic_core_c/DFZRBT/VCC10
+LM-175para1related power/ground10para2DFZRBT10
+LM-109para1fsa0m_a_generic_core_c/DFZRSBN/GND10
+LM-109para1fsa0m_a_generic_core_c/DFZRSBN/VCC10
+LM-175para1related power/ground10para2DFZRSBN10
+LM-109para1fsa0m_a_generic_core_c/DFZS/GND10
+LM-109para1fsa0m_a_generic_core_c/DFZS/VCC10
+LM-175para1related power/ground10para2DFZS10
+LM-109para1fsa0m_a_generic_core_c/DFZSBN/GND10
+LM-109para1fsa0m_a_generic_core_c/DFZSBN/VCC10
+LM-175para1related power/ground10para2DFZSBN10
+LM-109para1fsa0m_a_generic_core_c/DFZTRBN/GND10
+LM-109para1fsa0m_a_generic_core_c/DFZTRBN/VCC10
+LM-175para1related power/ground10para2DFZTRBN10
+LM-109para1fsa0m_a_generic_core_c/DFZTRBS/GND10
+LM-109para1fsa0m_a_generic_core_c/DFZTRBS/VCC10
+LM-175para1related power/ground10para2DFZTRBS10
+LM-109para1fsa0m_a_generic_core_c/DLHN/GND10
+LM-109para1fsa0m_a_generic_core_c/DLHN/VCC10
+LM-175para1related power/ground10para2DLHN10
+LM-109para1fsa0m_a_generic_core_c/DLHP/GND10
+LM-109para1fsa0m_a_generic_core_c/DLHP/VCC10
+LM-175para1related power/ground10para2DLHP10
+LM-109para1fsa0m_a_generic_core_c/DLHRBN/GND10
+LM-109para1fsa0m_a_generic_core_c/DLHRBN/VCC10
+LM-175para1related power/ground10para2DLHRBN10
+LM-109para1fsa0m_a_generic_core_c/DLHRBP/GND10
+LM-109para1fsa0m_a_generic_core_c/DLHRBP/VCC10
+LM-175para1related power/ground10para2DLHRBP10
+LM-109para1fsa0m_a_generic_core_c/DLHRBS/GND10
+LM-109para1fsa0m_a_generic_core_c/DLHRBS/VCC10
+LM-175para1related power/ground10para2DLHRBS10
+LM-109para1fsa0m_a_generic_core_c/DLHS/GND10
+LM-109para1fsa0m_a_generic_core_c/DLHS/VCC10
+LM-175para1related power/ground10para2DLHS10
+LM-109para1fsa0m_a_generic_core_c/FA1/GND10
+LM-109para1fsa0m_a_generic_core_c/FA1/VCC10
+LM-175para1related power/ground10para2FA110
+LM-109para1fsa0m_a_generic_core_c/FA1P/GND10
+LM-109para1fsa0m_a_generic_core_c/FA1P/VCC10
+LM-175para1related power/ground10para2FA1P10
+LM-109para1fsa0m_a_generic_core_c/FA1S/GND10
+LM-109para1fsa0m_a_generic_core_c/FA1S/VCC10
+LM-175para1related power/ground10para2FA1S10
+LM-109para1fsa0m_a_generic_core_c/FA1T/GND10
+LM-109para1fsa0m_a_generic_core_c/FA1T/VCC10
+LM-175para1related power/ground10para2FA1T10
+LM-109para1fsa0m_a_generic_core_c/FA2/GND10
+LM-109para1fsa0m_a_generic_core_c/FA2/VCC10
+LM-175para1related power/ground10para2FA210
+LM-109para1fsa0m_a_generic_core_c/FA2P/GND10
+LM-109para1fsa0m_a_generic_core_c/FA2P/VCC10
+LM-175para1related power/ground10para2FA2P10
+LM-109para1fsa0m_a_generic_core_c/FA2S/GND10
+LM-109para1fsa0m_a_generic_core_c/FA2S/VCC10
+LM-175para1related power/ground10para2FA2S10
+LM-109para1fsa0m_a_generic_core_c/FA3/GND10
+LM-109para1fsa0m_a_generic_core_c/FA3/VCC10
+LM-175para1related power/ground10para2FA310
+LM-109para1fsa0m_a_generic_core_c/FA3P/GND10
+LM-109para1fsa0m_a_generic_core_c/FA3P/VCC10
+LM-175para1related power/ground10para2FA3P10
+LM-109para1fsa0m_a_generic_core_c/FA3S/GND10
+LM-109para1fsa0m_a_generic_core_c/FA3S/VCC10
+LM-175para1related power/ground10para2FA3S10
+LM-109para1fsa0m_a_generic_core_c/FACS1/GND10
+LM-109para1fsa0m_a_generic_core_c/FACS1/VCC10
+LM-175para1related power/ground10para2FACS110
+LM-109para1fsa0m_a_generic_core_c/FACS1P/GND10
+LM-109para1fsa0m_a_generic_core_c/FACS1P/VCC10
+LM-175para1related power/ground10para2FACS1P10
+LM-109para1fsa0m_a_generic_core_c/FACS1S/GND10
+LM-109para1fsa0m_a_generic_core_c/FACS1S/VCC10
+LM-175para1related power/ground10para2FACS1S10
+LM-109para1fsa0m_a_generic_core_c/FACS2/GND10
+LM-109para1fsa0m_a_generic_core_c/FACS2/VCC10
+LM-175para1related power/ground10para2FACS210
+LM-109para1fsa0m_a_generic_core_c/FACS2P/GND10
+LM-109para1fsa0m_a_generic_core_c/FACS2P/VCC10
+LM-175para1related power/ground10para2FACS2P10
+LM-109para1fsa0m_a_generic_core_c/FACS2S/GND10
+LM-109para1fsa0m_a_generic_core_c/FACS2S/VCC10
+LM-175para1related power/ground10para2FACS2S10
+LM-109para1fsa0m_a_generic_core_c/GCKETF/GND10
+LM-109para1fsa0m_a_generic_core_c/GCKETF/VCC10
+LM-175para1related power/ground10para2GCKETF10
+LM-109para1fsa0m_a_generic_core_c/GCKETN/GND10
+LM-109para1fsa0m_a_generic_core_c/GCKETN/VCC10
+LM-175para1related power/ground10para2GCKETN10
+LM-109para1fsa0m_a_generic_core_c/GCKETP/GND10
+LM-109para1fsa0m_a_generic_core_c/GCKETP/VCC10
+LM-175para1related power/ground10para2GCKETP10
+LM-109para1fsa0m_a_generic_core_c/GCKETT/GND10
+LM-109para1fsa0m_a_generic_core_c/GCKETT/VCC10
+LM-175para1related power/ground10para2GCKETT10
+LM-109para1fsa0m_a_generic_core_c/HA1/GND10
+LM-109para1fsa0m_a_generic_core_c/HA1/VCC10
+LM-175para1related power/ground10para2HA110
+LM-109para1fsa0m_a_generic_core_c/HA1P/GND10
+LM-109para1fsa0m_a_generic_core_c/HA1P/VCC10
+LM-175para1related power/ground10para2HA1P10
+LM-109para1fsa0m_a_generic_core_c/HA1S/GND10
+LM-109para1fsa0m_a_generic_core_c/HA1S/VCC10
+LM-175para1related power/ground10para2HA1S10
+LM-109para1fsa0m_a_generic_core_c/HA1T/GND10
+LM-109para1fsa0m_a_generic_core_c/HA1T/VCC10
+LM-175para1related power/ground10para2HA1T10
+LM-109para1fsa0m_a_generic_core_c/HA2/GND10
+LM-109para1fsa0m_a_generic_core_c/HA2/VCC10
+LM-175para1related power/ground10para2HA210
+LM-109para1fsa0m_a_generic_core_c/HA2P/GND10
+LM-109para1fsa0m_a_generic_core_c/HA2P/VCC10
+LM-175para1related power/ground10para2HA2P10
+LM-109para1fsa0m_a_generic_core_c/HA2T/GND10
+LM-109para1fsa0m_a_generic_core_c/HA2T/VCC10
+LM-175para1related power/ground10para2HA2T10
+LM-109para1fsa0m_a_generic_core_c/HA3/GND10
+LM-109para1fsa0m_a_generic_core_c/HA3/VCC10
+LM-175para1related power/ground10para2HA310
+LM-109para1fsa0m_a_generic_core_c/HA3P/GND10
+LM-109para1fsa0m_a_generic_core_c/HA3P/VCC10
+LM-175para1related power/ground10para2HA3P10
+LM-109para1fsa0m_a_generic_core_c/HA3T/GND10
+LM-109para1fsa0m_a_generic_core_c/HA3T/VCC10
+LM-175para1related power/ground10para2HA3T10
+LM-109para1fsa0m_a_generic_core_c/INV1/GND10
+LM-109para1fsa0m_a_generic_core_c/INV1/VCC10
+LM-175para1related power/ground10para2INV110
+LM-109para1fsa0m_a_generic_core_c/INV12/GND10
+LM-109para1fsa0m_a_generic_core_c/INV12/VCC10
+LM-175para1related power/ground10para2INV1210
+LM-109para1fsa0m_a_generic_core_c/INV12CK/GND10
+LM-109para1fsa0m_a_generic_core_c/INV12CK/VCC10
+LM-175para1related power/ground10para2INV12CK10
+LM-109para1fsa0m_a_generic_core_c/INV1CK/GND10
+LM-109para1fsa0m_a_generic_core_c/INV1CK/VCC10
+LM-175para1related power/ground10para2INV1CK10
+LM-109para1fsa0m_a_generic_core_c/INV1S/GND10
+LM-109para1fsa0m_a_generic_core_c/INV1S/VCC10
+LM-175para1related power/ground10para2INV1S10
+LM-109para1fsa0m_a_generic_core_c/INV2/GND10
+LM-109para1fsa0m_a_generic_core_c/INV2/VCC10
+LM-175para1related power/ground10para2INV210
+LM-109para1fsa0m_a_generic_core_c/INV2CK/GND10
+LM-109para1fsa0m_a_generic_core_c/INV2CK/VCC10
+LM-175para1related power/ground10para2INV2CK10
+LM-109para1fsa0m_a_generic_core_c/INV3/GND10
+LM-109para1fsa0m_a_generic_core_c/INV3/VCC10
+LM-175para1related power/ground10para2INV310
+LM-109para1fsa0m_a_generic_core_c/INV3CK/GND10
+LM-109para1fsa0m_a_generic_core_c/INV3CK/VCC10
+LM-175para1related power/ground10para2INV3CK10
+LM-109para1fsa0m_a_generic_core_c/INV4/GND10
+LM-109para1fsa0m_a_generic_core_c/INV4/VCC10
+LM-175para1related power/ground10para2INV410
+LM-109para1fsa0m_a_generic_core_c/INV4CK/GND10
+LM-109para1fsa0m_a_generic_core_c/INV4CK/VCC10
+LM-175para1related power/ground10para2INV4CK10
+LM-109para1fsa0m_a_generic_core_c/INV6/GND10
+LM-109para1fsa0m_a_generic_core_c/INV6/VCC10
+LM-175para1related power/ground10para2INV610
+LM-109para1fsa0m_a_generic_core_c/INV6CK/GND10
+LM-109para1fsa0m_a_generic_core_c/INV6CK/VCC10
+LM-175para1related power/ground10para2INV6CK10
+LM-109para1fsa0m_a_generic_core_c/INV8/GND10
+LM-109para1fsa0m_a_generic_core_c/INV8/VCC10
+LM-175para1related power/ground10para2INV810
+LM-109para1fsa0m_a_generic_core_c/INV8CK/GND10
+LM-109para1fsa0m_a_generic_core_c/INV8CK/VCC10
+LM-175para1related power/ground10para2INV8CK10
+LM-109para1fsa0m_a_generic_core_c/INVT1/GND10
+LM-109para1fsa0m_a_generic_core_c/INVT1/VCC10
+LM-175para1related power/ground10para2INVT110
+LM-109para1fsa0m_a_generic_core_c/INVT2/GND10
+LM-109para1fsa0m_a_generic_core_c/INVT2/VCC10
+LM-175para1related power/ground10para2INVT210
+LM-109para1fsa0m_a_generic_core_c/INVT4/GND10
+LM-109para1fsa0m_a_generic_core_c/INVT4/VCC10
+LM-175para1related power/ground10para2INVT410
+LM-109para1fsa0m_a_generic_core_c/JKFN/GND10
+LM-109para1fsa0m_a_generic_core_c/JKFN/VCC10
+LM-175para1related power/ground10para2JKFN10
+LM-109para1fsa0m_a_generic_core_c/JKFRBN/GND10
+LM-109para1fsa0m_a_generic_core_c/JKFRBN/VCC10
+LM-175para1related power/ground10para2JKFRBN10
+LM-109para1fsa0m_a_generic_core_c/JKFRBP/GND10
+LM-109para1fsa0m_a_generic_core_c/JKFRBP/VCC10
+LM-175para1related power/ground10para2JKFRBP10
+LM-109para1fsa0m_a_generic_core_c/JKZN/GND10
+LM-109para1fsa0m_a_generic_core_c/JKZN/VCC10
+LM-175para1related power/ground10para2JKZN10
+LM-109para1fsa0m_a_generic_core_c/JKZRBN/GND10
+LM-109para1fsa0m_a_generic_core_c/JKZRBN/VCC10
+LM-175para1related power/ground10para2JKZRBN10
+LM-109para1fsa0m_a_generic_core_c/JKZRBP/GND10
+LM-109para1fsa0m_a_generic_core_c/JKZRBP/VCC10
+LM-175para1related power/ground10para2JKZRBP10
+LM-109para1fsa0m_a_generic_core_c/MAO222/GND10
+LM-109para1fsa0m_a_generic_core_c/MAO222/VCC10
+LM-175para1related power/ground10para2MAO22210
+LM-109para1fsa0m_a_generic_core_c/MAO222P/GND10
+LM-109para1fsa0m_a_generic_core_c/MAO222P/VCC10
+LM-175para1related power/ground10para2MAO222P10
+LM-109para1fsa0m_a_generic_core_c/MAO222S/GND10
+LM-109para1fsa0m_a_generic_core_c/MAO222S/VCC10
+LM-175para1related power/ground10para2MAO222S10
+LM-109para1fsa0m_a_generic_core_c/MAO222T/GND10
+LM-109para1fsa0m_a_generic_core_c/MAO222T/VCC10
+LM-175para1related power/ground10para2MAO222T10
+LM-109para1fsa0m_a_generic_core_c/MAOI1/GND10
+LM-109para1fsa0m_a_generic_core_c/MAOI1/VCC10
+LM-175para1related power/ground10para2MAOI110
+LM-109para1fsa0m_a_generic_core_c/MAOI1H/GND10
+LM-109para1fsa0m_a_generic_core_c/MAOI1H/VCC10
+LM-175para1related power/ground10para2MAOI1H10
+LM-109para1fsa0m_a_generic_core_c/MAOI1HP/GND10
+LM-109para1fsa0m_a_generic_core_c/MAOI1HP/VCC10
+LM-175para1related power/ground10para2MAOI1HP10
+LM-109para1fsa0m_a_generic_core_c/MAOI1HT/GND10
+LM-109para1fsa0m_a_generic_core_c/MAOI1HT/VCC10
+LM-175para1related power/ground10para2MAOI1HT10
+LM-109para1fsa0m_a_generic_core_c/MAOI1S/GND10
+LM-109para1fsa0m_a_generic_core_c/MAOI1S/VCC10
+LM-175para1related power/ground10para2MAOI1S10
+LM-109para1fsa0m_a_generic_core_c/MOAI1/GND10
+LM-109para1fsa0m_a_generic_core_c/MOAI1/VCC10
+LM-175para1related power/ground10para2MOAI110
+LM-109para1fsa0m_a_generic_core_c/MOAI1H/GND10
+LM-109para1fsa0m_a_generic_core_c/MOAI1H/VCC10
+LM-175para1related power/ground10para2MOAI1H10
+LM-109para1fsa0m_a_generic_core_c/MOAI1HP/GND10
+LM-109para1fsa0m_a_generic_core_c/MOAI1HP/VCC10
+LM-175para1related power/ground10para2MOAI1HP10
+LM-109para1fsa0m_a_generic_core_c/MOAI1HT/GND10
+LM-109para1fsa0m_a_generic_core_c/MOAI1HT/VCC10
+LM-175para1related power/ground10para2MOAI1HT10
+LM-109para1fsa0m_a_generic_core_c/MOAI1S/GND10
+LM-109para1fsa0m_a_generic_core_c/MOAI1S/VCC10
+LM-175para1related power/ground10para2MOAI1S10
+LM-109para1fsa0m_a_generic_core_c/MULBE/GND10
+LM-109para1fsa0m_a_generic_core_c/MULBE/VCC10
+LM-175para1related power/ground10para2MULBE10
+LM-109para1fsa0m_a_generic_core_c/MULBEP/GND10
+LM-109para1fsa0m_a_generic_core_c/MULBEP/VCC10
+LM-175para1related power/ground10para2MULBEP10
+LM-109para1fsa0m_a_generic_core_c/MULBET/GND10
+LM-109para1fsa0m_a_generic_core_c/MULBET/VCC10
+LM-175para1related power/ground10para2MULBET10
+LM-109para1fsa0m_a_generic_core_c/MULPA/GND10
+LM-109para1fsa0m_a_generic_core_c/MULPA/VCC10
+LM-175para1related power/ground10para2MULPA10
+LM-109para1fsa0m_a_generic_core_c/MULPAP/GND10
+LM-109para1fsa0m_a_generic_core_c/MULPAP/VCC10
+LM-175para1related power/ground10para2MULPAP10
+LM-109para1fsa0m_a_generic_core_c/MULPAT/GND10
+LM-109para1fsa0m_a_generic_core_c/MULPAT/VCC10
+LM-175para1related power/ground10para2MULPAT10
+LM-109para1fsa0m_a_generic_core_c/MUX2/GND10
+LM-109para1fsa0m_a_generic_core_c/MUX2/VCC10
+LM-175para1related power/ground10para2MUX210
+LM-109para1fsa0m_a_generic_core_c/MUX2F/GND10
+LM-109para1fsa0m_a_generic_core_c/MUX2F/VCC10
+LM-175para1related power/ground10para2MUX2F10
+LM-109para1fsa0m_a_generic_core_c/MUX2P/GND10
+LM-109para1fsa0m_a_generic_core_c/MUX2P/VCC10
+LM-175para1related power/ground10para2MUX2P10
+LM-109para1fsa0m_a_generic_core_c/MUX2S/GND10
+LM-109para1fsa0m_a_generic_core_c/MUX2S/VCC10
+LM-175para1related power/ground10para2MUX2S10
+LM-109para1fsa0m_a_generic_core_c/MUX2T/GND10
+LM-109para1fsa0m_a_generic_core_c/MUX2T/VCC10
+LM-175para1related power/ground10para2MUX2T10
+LM-109para1fsa0m_a_generic_core_c/MUX3/GND10
+LM-109para1fsa0m_a_generic_core_c/MUX3/VCC10
+LM-175para1related power/ground10para2MUX310
+LM-109para1fsa0m_a_generic_core_c/MUX3P/GND10
+LM-109para1fsa0m_a_generic_core_c/MUX3P/VCC10
+LM-175para1related power/ground10para2MUX3P10
+LM-109para1fsa0m_a_generic_core_c/MUX3S/GND10
+LM-109para1fsa0m_a_generic_core_c/MUX3S/VCC10
+LM-175para1related power/ground10para2MUX3S10
+LM-109para1fsa0m_a_generic_core_c/MUX3T/GND10
+LM-109para1fsa0m_a_generic_core_c/MUX3T/VCC10
+LM-175para1related power/ground10para2MUX3T10
+LM-109para1fsa0m_a_generic_core_c/MUX4/GND10
+LM-109para1fsa0m_a_generic_core_c/MUX4/VCC10
+LM-175para1related power/ground10para2MUX410
+LM-109para1fsa0m_a_generic_core_c/MUX4P/GND10
+LM-109para1fsa0m_a_generic_core_c/MUX4P/VCC10
+LM-175para1related power/ground10para2MUX4P10
+LM-109para1fsa0m_a_generic_core_c/MUX4S/GND10
+LM-109para1fsa0m_a_generic_core_c/MUX4S/VCC10
+LM-175para1related power/ground10para2MUX4S10
+LM-109para1fsa0m_a_generic_core_c/MUX4T/GND10
+LM-109para1fsa0m_a_generic_core_c/MUX4T/VCC10
+LM-175para1related power/ground10para2MUX4T10
+LM-109para1fsa0m_a_generic_core_c/MUXB2/GND10
+LM-109para1fsa0m_a_generic_core_c/MUXB2/VCC10
+LM-175para1related power/ground10para2MUXB210
+LM-109para1fsa0m_a_generic_core_c/MUXB2P/GND10
+LM-109para1fsa0m_a_generic_core_c/MUXB2P/VCC10
+LM-175para1related power/ground10para2MUXB2P10
+LM-109para1fsa0m_a_generic_core_c/MUXB2S/GND10
+LM-109para1fsa0m_a_generic_core_c/MUXB2S/VCC10
+LM-175para1related power/ground10para2MUXB2S10
+LM-109para1fsa0m_a_generic_core_c/MUXB2T/GND10
+LM-109para1fsa0m_a_generic_core_c/MUXB2T/VCC10
+LM-175para1related power/ground10para2MUXB2T10
+LM-109para1fsa0m_a_generic_core_c/MUXB4/GND10
+LM-109para1fsa0m_a_generic_core_c/MUXB4/VCC10
+LM-175para1related power/ground10para2MUXB410
+LM-109para1fsa0m_a_generic_core_c/MUXB4P/GND10
+LM-109para1fsa0m_a_generic_core_c/MUXB4P/VCC10
+LM-175para1related power/ground10para2MUXB4P10
+LM-109para1fsa0m_a_generic_core_c/MUXB4S/GND10
+LM-109para1fsa0m_a_generic_core_c/MUXB4S/VCC10
+LM-175para1related power/ground10para2MUXB4S10
+LM-109para1fsa0m_a_generic_core_c/MUXB4T/GND10
+LM-109para1fsa0m_a_generic_core_c/MUXB4T/VCC10
+LM-175para1related power/ground10para2MUXB4T10
+LM-109para1fsa0m_a_generic_core_c/MXL2H/GND10
+LM-109para1fsa0m_a_generic_core_c/MXL2H/VCC10
+LM-175para1related power/ground10para2MXL2H10
+LM-109para1fsa0m_a_generic_core_c/MXL2HF/GND10
+LM-109para1fsa0m_a_generic_core_c/MXL2HF/VCC10
+LM-175para1related power/ground10para2MXL2HF10
+LM-109para1fsa0m_a_generic_core_c/MXL2HP/GND10
+LM-109para1fsa0m_a_generic_core_c/MXL2HP/VCC10
+LM-175para1related power/ground10para2MXL2HP10
+LM-109para1fsa0m_a_generic_core_c/MXL2HS/GND10
+LM-109para1fsa0m_a_generic_core_c/MXL2HS/VCC10
+LM-175para1related power/ground10para2MXL2HS10
+LM-109para1fsa0m_a_generic_core_c/MXL2HT/GND10
+LM-109para1fsa0m_a_generic_core_c/MXL2HT/VCC10
+LM-175para1related power/ground10para2MXL2HT10
+LM-109para1fsa0m_a_generic_core_c/MXL3/GND10
+LM-109para1fsa0m_a_generic_core_c/MXL3/VCC10
+LM-175para1related power/ground10para2MXL310
+LM-109para1fsa0m_a_generic_core_c/MXL3P/GND10
+LM-109para1fsa0m_a_generic_core_c/MXL3P/VCC10
+LM-175para1related power/ground10para2MXL3P10
+LM-109para1fsa0m_a_generic_core_c/MXL3S/GND10
+LM-109para1fsa0m_a_generic_core_c/MXL3S/VCC10
+LM-175para1related power/ground10para2MXL3S10
+LM-109para1fsa0m_a_generic_core_c/MXL3T/GND10
+LM-109para1fsa0m_a_generic_core_c/MXL3T/VCC10
+LM-175para1related power/ground10para2MXL3T10
+LM-109para1fsa0m_a_generic_core_c/ND2/GND10
+LM-109para1fsa0m_a_generic_core_c/ND2/VCC10
+LM-175para1related power/ground10para2ND210
+LM-109para1fsa0m_a_generic_core_c/ND2F/GND10
+LM-109para1fsa0m_a_generic_core_c/ND2F/VCC10
+LM-175para1related power/ground10para2ND2F10
+LM-109para1fsa0m_a_generic_core_c/ND2P/GND10
+LM-109para1fsa0m_a_generic_core_c/ND2P/VCC10
+LM-175para1related power/ground10para2ND2P10
+LM-109para1fsa0m_a_generic_core_c/ND2S/GND10
+LM-109para1fsa0m_a_generic_core_c/ND2S/VCC10
+LM-175para1related power/ground10para2ND2S10
+LM-109para1fsa0m_a_generic_core_c/ND2T/GND10
+LM-109para1fsa0m_a_generic_core_c/ND2T/VCC10
+LM-175para1related power/ground10para2ND2T10
+LM-109para1fsa0m_a_generic_core_c/ND3/GND10
+LM-109para1fsa0m_a_generic_core_c/ND3/VCC10
+LM-175para1related power/ground10para2ND310
+LM-109para1fsa0m_a_generic_core_c/ND3HT/GND10
+LM-109para1fsa0m_a_generic_core_c/ND3HT/VCC10
+LM-175para1related power/ground10para2ND3HT10
+LM-109para1fsa0m_a_generic_core_c/ND3P/GND10
+LM-109para1fsa0m_a_generic_core_c/ND3P/VCC10
+LM-175para1related power/ground10para2ND3P10
+LM-109para1fsa0m_a_generic_core_c/ND3S/GND10
+LM-109para1fsa0m_a_generic_core_c/ND3S/VCC10
+LM-175para1related power/ground10para2ND3S10
+LM-109para1fsa0m_a_generic_core_c/ND4/GND10
+LM-109para1fsa0m_a_generic_core_c/ND4/VCC10
+LM-175para1related power/ground10para2ND410
+LM-109para1fsa0m_a_generic_core_c/ND4P/GND10
+LM-109para1fsa0m_a_generic_core_c/ND4P/VCC10
+LM-175para1related power/ground10para2ND4P10
+LM-109para1fsa0m_a_generic_core_c/ND4S/GND10
+LM-109para1fsa0m_a_generic_core_c/ND4S/VCC10
+LM-175para1related power/ground10para2ND4S10
+LM-109para1fsa0m_a_generic_core_c/ND4T/GND10
+LM-109para1fsa0m_a_generic_core_c/ND4T/VCC10
+LM-175para1related power/ground10para2ND4T10
+LM-109para1fsa0m_a_generic_core_c/NR2/GND10
+LM-109para1fsa0m_a_generic_core_c/NR2/VCC10
+LM-175para1related power/ground10para2NR210
+LM-109para1fsa0m_a_generic_core_c/NR2F/GND10
+LM-109para1fsa0m_a_generic_core_c/NR2F/VCC10
+LM-175para1related power/ground10para2NR2F10
+LM-109para1fsa0m_a_generic_core_c/NR2P/GND10
+LM-109para1fsa0m_a_generic_core_c/NR2P/VCC10
+LM-175para1related power/ground10para2NR2P10
+LM-109para1fsa0m_a_generic_core_c/NR2T/GND10
+LM-109para1fsa0m_a_generic_core_c/NR2T/VCC10
+LM-175para1related power/ground10para2NR2T10
+LM-109para1fsa0m_a_generic_core_c/NR3/GND10
+LM-109para1fsa0m_a_generic_core_c/NR3/VCC10
+LM-175para1related power/ground10para2NR310
+LM-109para1fsa0m_a_generic_core_c/NR3H/GND10
+LM-109para1fsa0m_a_generic_core_c/NR3H/VCC10
+LM-175para1related power/ground10para2NR3H10
+LM-109para1fsa0m_a_generic_core_c/NR3HP/GND10
+LM-109para1fsa0m_a_generic_core_c/NR3HP/VCC10
+LM-175para1related power/ground10para2NR3HP10
+LM-109para1fsa0m_a_generic_core_c/NR3HT/GND10
+LM-109para1fsa0m_a_generic_core_c/NR3HT/VCC10
+LM-175para1related power/ground10para2NR3HT10
+LM-109para1fsa0m_a_generic_core_c/NR4/GND10
+LM-109para1fsa0m_a_generic_core_c/NR4/VCC10
+LM-175para1related power/ground10para2NR410
+LM-109para1fsa0m_a_generic_core_c/NR4P/GND10
+LM-109para1fsa0m_a_generic_core_c/NR4P/VCC10
+LM-175para1related power/ground10para2NR4P10
+LM-109para1fsa0m_a_generic_core_c/NR4S/GND10
+LM-109para1fsa0m_a_generic_core_c/NR4S/VCC10
+LM-175para1related power/ground10para2NR4S10
+LM-109para1fsa0m_a_generic_core_c/NR4T/GND10
+LM-109para1fsa0m_a_generic_core_c/NR4T/VCC10
+LM-175para1related power/ground10para2NR4T10
+LM-109para1fsa0m_a_generic_core_c/OA112/GND10
+LM-109para1fsa0m_a_generic_core_c/OA112/VCC10
+LM-175para1related power/ground10para2OA11210
+LM-109para1fsa0m_a_generic_core_c/OA112P/GND10
+LM-109para1fsa0m_a_generic_core_c/OA112P/VCC10
+LM-175para1related power/ground10para2OA112P10
+LM-109para1fsa0m_a_generic_core_c/OA112S/GND10
+LM-109para1fsa0m_a_generic_core_c/OA112S/VCC10
+LM-175para1related power/ground10para2OA112S10
+LM-109para1fsa0m_a_generic_core_c/OA112T/GND10
+LM-109para1fsa0m_a_generic_core_c/OA112T/VCC10
+LM-175para1related power/ground10para2OA112T10
+LM-109para1fsa0m_a_generic_core_c/OA12/GND10
+LM-109para1fsa0m_a_generic_core_c/OA12/VCC10
+LM-175para1related power/ground10para2OA1210
+LM-109para1fsa0m_a_generic_core_c/OA12P/GND10
+LM-109para1fsa0m_a_generic_core_c/OA12P/VCC10
+LM-175para1related power/ground10para2OA12P10
+LM-109para1fsa0m_a_generic_core_c/OA12S/GND10
+LM-109para1fsa0m_a_generic_core_c/OA12S/VCC10
+LM-175para1related power/ground10para2OA12S10
+LM-109para1fsa0m_a_generic_core_c/OA12T/GND10
+LM-109para1fsa0m_a_generic_core_c/OA12T/VCC10
+LM-175para1related power/ground10para2OA12T10
+LM-109para1fsa0m_a_generic_core_c/OA13/GND10
+LM-109para1fsa0m_a_generic_core_c/OA13/VCC10
+LM-175para1related power/ground10para2OA1310
+LM-109para1fsa0m_a_generic_core_c/OA13P/GND10
+LM-109para1fsa0m_a_generic_core_c/OA13P/VCC10
+LM-175para1related power/ground10para2OA13P10
+LM-109para1fsa0m_a_generic_core_c/OA13S/GND10
+LM-109para1fsa0m_a_generic_core_c/OA13S/VCC10
+LM-175para1related power/ground10para2OA13S10
+LM-109para1fsa0m_a_generic_core_c/OA13T/GND10
+LM-109para1fsa0m_a_generic_core_c/OA13T/VCC10
+LM-175para1related power/ground10para2OA13T10
+LM-109para1fsa0m_a_generic_core_c/OA22/GND10
+LM-109para1fsa0m_a_generic_core_c/OA22/VCC10
+LM-175para1related power/ground10para2OA2210
+LM-109para1fsa0m_a_generic_core_c/OA222/GND10
+LM-109para1fsa0m_a_generic_core_c/OA222/VCC10
+LM-175para1related power/ground10para2OA22210
+LM-109para1fsa0m_a_generic_core_c/OA222P/GND10
+LM-109para1fsa0m_a_generic_core_c/OA222P/VCC10
+LM-175para1related power/ground10para2OA222P10
+LM-109para1fsa0m_a_generic_core_c/OA222S/GND10
+LM-109para1fsa0m_a_generic_core_c/OA222S/VCC10
+LM-175para1related power/ground10para2OA222S10
+LM-109para1fsa0m_a_generic_core_c/OA222T/GND10
+LM-109para1fsa0m_a_generic_core_c/OA222T/VCC10
+LM-175para1related power/ground10para2OA222T10
+LM-109para1fsa0m_a_generic_core_c/OA22P/GND10
+LM-109para1fsa0m_a_generic_core_c/OA22P/VCC10
+LM-175para1related power/ground10para2OA22P10
+LM-109para1fsa0m_a_generic_core_c/OA22S/GND10
+LM-109para1fsa0m_a_generic_core_c/OA22S/VCC10
+LM-175para1related power/ground10para2OA22S10
+LM-109para1fsa0m_a_generic_core_c/OA22T/GND10
+LM-109para1fsa0m_a_generic_core_c/OA22T/VCC10
+LM-175para1related power/ground10para2OA22T10
+LM-109para1fsa0m_a_generic_core_c/OAI112H/GND10
+LM-109para1fsa0m_a_generic_core_c/OAI112H/VCC10
+LM-175para1related power/ground10para2OAI112H10
+LM-109para1fsa0m_a_generic_core_c/OAI112HP/GND10
+LM-109para1fsa0m_a_generic_core_c/OAI112HP/VCC10
+LM-175para1related power/ground10para2OAI112HP10
+LM-109para1fsa0m_a_generic_core_c/OAI112HS/GND10
+LM-109para1fsa0m_a_generic_core_c/OAI112HS/VCC10
+LM-175para1related power/ground10para2OAI112HS10
+LM-109para1fsa0m_a_generic_core_c/OAI112HT/GND10
+LM-109para1fsa0m_a_generic_core_c/OAI112HT/VCC10
+LM-175para1related power/ground10para2OAI112HT10
+LM-109para1fsa0m_a_generic_core_c/OAI12H/GND10
+LM-109para1fsa0m_a_generic_core_c/OAI12H/VCC10
+LM-175para1related power/ground10para2OAI12H10
+LM-109para1fsa0m_a_generic_core_c/OAI12HP/GND10
+LM-109para1fsa0m_a_generic_core_c/OAI12HP/VCC10
+LM-175para1related power/ground10para2OAI12HP10
+LM-109para1fsa0m_a_generic_core_c/OAI12HS/GND10
+LM-109para1fsa0m_a_generic_core_c/OAI12HS/VCC10
+LM-175para1related power/ground10para2OAI12HS10
+LM-109para1fsa0m_a_generic_core_c/OAI12HT/GND10
+LM-109para1fsa0m_a_generic_core_c/OAI12HT/VCC10
+LM-175para1related power/ground10para2OAI12HT10
+LM-109para1fsa0m_a_generic_core_c/OAI13H/GND10
+LM-109para1fsa0m_a_generic_core_c/OAI13H/VCC10
+LM-175para1related power/ground10para2OAI13H10
+LM-109para1fsa0m_a_generic_core_c/OAI13HP/GND10
+LM-109para1fsa0m_a_generic_core_c/OAI13HP/VCC10
+LM-175para1related power/ground10para2OAI13HP10
+LM-109para1fsa0m_a_generic_core_c/OAI13HS/GND10
+LM-109para1fsa0m_a_generic_core_c/OAI13HS/VCC10
+LM-175para1related power/ground10para2OAI13HS10
+LM-109para1fsa0m_a_generic_core_c/OAI13HT/GND10
+LM-109para1fsa0m_a_generic_core_c/OAI13HT/VCC10
+LM-175para1related power/ground10para2OAI13HT10
+LM-109para1fsa0m_a_generic_core_c/OAI222H/GND10
+LM-109para1fsa0m_a_generic_core_c/OAI222H/VCC10
+LM-175para1related power/ground10para2OAI222H10
+LM-109para1fsa0m_a_generic_core_c/OAI222HP/GND10
+LM-109para1fsa0m_a_generic_core_c/OAI222HP/VCC10
+LM-175para1related power/ground10para2OAI222HP10
+LM-109para1fsa0m_a_generic_core_c/OAI222HT/GND10
+LM-109para1fsa0m_a_generic_core_c/OAI222HT/VCC10
+LM-175para1related power/ground10para2OAI222HT10
+LM-109para1fsa0m_a_generic_core_c/OAI222S/GND10
+LM-109para1fsa0m_a_generic_core_c/OAI222S/VCC10
+LM-175para1related power/ground10para2OAI222S10
+LM-109para1fsa0m_a_generic_core_c/OAI22H/GND10
+LM-109para1fsa0m_a_generic_core_c/OAI22H/VCC10
+LM-175para1related power/ground10para2OAI22H10
+LM-109para1fsa0m_a_generic_core_c/OAI22HP/GND10
+LM-109para1fsa0m_a_generic_core_c/OAI22HP/VCC10
+LM-175para1related power/ground10para2OAI22HP10
+LM-109para1fsa0m_a_generic_core_c/OAI22HT/GND10
+LM-109para1fsa0m_a_generic_core_c/OAI22HT/VCC10
+LM-175para1related power/ground10para2OAI22HT10
+LM-109para1fsa0m_a_generic_core_c/OAI22S/GND10
+LM-109para1fsa0m_a_generic_core_c/OAI22S/VCC10
+LM-175para1related power/ground10para2OAI22S10
+LM-109para1fsa0m_a_generic_core_c/OR2/GND10
+LM-109para1fsa0m_a_generic_core_c/OR2/VCC10
+LM-175para1related power/ground10para2OR210
+LM-109para1fsa0m_a_generic_core_c/OR2B1/GND10
+LM-109para1fsa0m_a_generic_core_c/OR2B1/VCC10
+LM-175para1related power/ground10para2OR2B110
+LM-109para1fsa0m_a_generic_core_c/OR2B1P/GND10
+LM-109para1fsa0m_a_generic_core_c/OR2B1P/VCC10
+LM-175para1related power/ground10para2OR2B1P10
+LM-109para1fsa0m_a_generic_core_c/OR2B1S/GND10
+LM-109para1fsa0m_a_generic_core_c/OR2B1S/VCC10
+LM-175para1related power/ground10para2OR2B1S10
+LM-109para1fsa0m_a_generic_core_c/OR2B1T/GND10
+LM-109para1fsa0m_a_generic_core_c/OR2B1T/VCC10
+LM-175para1related power/ground10para2OR2B1T10
+LM-109para1fsa0m_a_generic_core_c/OR2P/GND10
+LM-109para1fsa0m_a_generic_core_c/OR2P/VCC10
+LM-175para1related power/ground10para2OR2P10
+LM-109para1fsa0m_a_generic_core_c/OR2S/GND10
+LM-109para1fsa0m_a_generic_core_c/OR2S/VCC10
+LM-175para1related power/ground10para2OR2S10
+LM-109para1fsa0m_a_generic_core_c/OR2T/GND10
+LM-109para1fsa0m_a_generic_core_c/OR2T/VCC10
+LM-175para1related power/ground10para2OR2T10
+LM-109para1fsa0m_a_generic_core_c/OR3/GND10
+LM-109para1fsa0m_a_generic_core_c/OR3/VCC10
+LM-175para1related power/ground10para2OR310
+LM-109para1fsa0m_a_generic_core_c/OR3B1/GND10
+LM-109para1fsa0m_a_generic_core_c/OR3B1/VCC10
+LM-175para1related power/ground10para2OR3B110
+LM-109para1fsa0m_a_generic_core_c/OR3B1P/GND10
+LM-109para1fsa0m_a_generic_core_c/OR3B1P/VCC10
+LM-175para1related power/ground10para2OR3B1P10
+LM-109para1fsa0m_a_generic_core_c/OR3B1S/GND10
+LM-109para1fsa0m_a_generic_core_c/OR3B1S/VCC10
+LM-175para1related power/ground10para2OR3B1S10
+LM-109para1fsa0m_a_generic_core_c/OR3B1T/GND10
+LM-109para1fsa0m_a_generic_core_c/OR3B1T/VCC10
+LM-175para1related power/ground10para2OR3B1T10
+LM-109para1fsa0m_a_generic_core_c/OR3B2/GND10
+LM-109para1fsa0m_a_generic_core_c/OR3B2/VCC10
+LM-175para1related power/ground10para2OR3B210
+LM-109para1fsa0m_a_generic_core_c/OR3B2P/GND10
+LM-109para1fsa0m_a_generic_core_c/OR3B2P/VCC10
+LM-175para1related power/ground10para2OR3B2P10
+LM-109para1fsa0m_a_generic_core_c/OR3B2S/GND10
+LM-109para1fsa0m_a_generic_core_c/OR3B2S/VCC10
+LM-175para1related power/ground10para2OR3B2S10
+LM-109para1fsa0m_a_generic_core_c/OR3B2T/GND10
+LM-109para1fsa0m_a_generic_core_c/OR3B2T/VCC10
+LM-175para1related power/ground10para2OR3B2T10
+LM-109para1fsa0m_a_generic_core_c/OR3P/GND10
+LM-109para1fsa0m_a_generic_core_c/OR3P/VCC10
+LM-175para1related power/ground10para2OR3P10
+LM-109para1fsa0m_a_generic_core_c/OR3S/GND10
+LM-109para1fsa0m_a_generic_core_c/OR3S/VCC10
+LM-175para1related power/ground10para2OR3S10
+LM-109para1fsa0m_a_generic_core_c/OR3T/GND10
+LM-109para1fsa0m_a_generic_core_c/OR3T/VCC10
+LM-175para1related power/ground10para2OR3T10
+LM-109para1fsa0m_a_generic_core_c/PDI/GND10
+LM-109para1fsa0m_a_generic_core_c/PDI/VCC10
+LM-175para1related power/ground10para2PDI10
+LM-109para1fsa0m_a_generic_core_c/PDIX/GND10
+LM-109para1fsa0m_a_generic_core_c/PDIX/VCC10
+LM-175para1related power/ground10para2PDIX10
+LM-109para1fsa0m_a_generic_core_c/PUI/GND10
+LM-109para1fsa0m_a_generic_core_c/PUI/VCC10
+LM-175para1related power/ground10para2PUI10
+LM-109para1fsa0m_a_generic_core_c/QDBHN/GND10
+LM-109para1fsa0m_a_generic_core_c/QDBHN/VCC10
+LM-175para1related power/ground10para2QDBHN10
+LM-109para1fsa0m_a_generic_core_c/QDBHS/GND10
+LM-109para1fsa0m_a_generic_core_c/QDBHS/VCC10
+LM-175para1related power/ground10para2QDBHS10
+LM-109para1fsa0m_a_generic_core_c/QDFFN/GND10
+LM-109para1fsa0m_a_generic_core_c/QDFFN/VCC10
+LM-175para1related power/ground10para2QDFFN10
+LM-109para1fsa0m_a_generic_core_c/QDFFP/GND10
+LM-109para1fsa0m_a_generic_core_c/QDFFP/VCC10
+LM-175para1related power/ground10para2QDFFP10
+LM-109para1fsa0m_a_generic_core_c/QDFFRBN/GND10
+LM-109para1fsa0m_a_generic_core_c/QDFFRBN/VCC10
+LM-175para1related power/ground10para2QDFFRBN10
+LM-109para1fsa0m_a_generic_core_c/QDFFRBP/GND10
+LM-109para1fsa0m_a_generic_core_c/QDFFRBP/VCC10
+LM-175para1related power/ground10para2QDFFRBP10
+LM-109para1fsa0m_a_generic_core_c/QDFFRBS/GND10
+LM-109para1fsa0m_a_generic_core_c/QDFFRBS/VCC10
+LM-175para1related power/ground10para2QDFFRBS10
+LM-109para1fsa0m_a_generic_core_c/QDFFRBT/GND10
+LM-109para1fsa0m_a_generic_core_c/QDFFRBT/VCC10
+LM-175para1related power/ground10para2QDFFRBT10
+LM-109para1fsa0m_a_generic_core_c/QDFFRSBN/GND10
+LM-109para1fsa0m_a_generic_core_c/QDFFRSBN/VCC10
+LM-175para1related power/ground10para2QDFFRSBN10
+LM-109para1fsa0m_a_generic_core_c/QDFFS/GND10
+LM-109para1fsa0m_a_generic_core_c/QDFFS/VCC10
+LM-175para1related power/ground10para2QDFFS10
+LM-109para1fsa0m_a_generic_core_c/QDFZN/GND10
+LM-109para1fsa0m_a_generic_core_c/QDFZN/VCC10
+LM-175para1related power/ground10para2QDFZN10
+LM-109para1fsa0m_a_generic_core_c/QDFZP/GND10
+LM-109para1fsa0m_a_generic_core_c/QDFZP/VCC10
+LM-175para1related power/ground10para2QDFZP10
+LM-109para1fsa0m_a_generic_core_c/QDFZRBN/GND10
+LM-109para1fsa0m_a_generic_core_c/QDFZRBN/VCC10
+LM-175para1related power/ground10para2QDFZRBN10
+LM-109para1fsa0m_a_generic_core_c/QDFZRBP/GND10
+LM-109para1fsa0m_a_generic_core_c/QDFZRBP/VCC10
+LM-175para1related power/ground10para2QDFZRBP10
+LM-109para1fsa0m_a_generic_core_c/QDFZRBS/GND10
+LM-109para1fsa0m_a_generic_core_c/QDFZRBS/VCC10
+LM-175para1related power/ground10para2QDFZRBS10
+LM-109para1fsa0m_a_generic_core_c/QDFZRBT/GND10
+LM-109para1fsa0m_a_generic_core_c/QDFZRBT/VCC10
+LM-175para1related power/ground10para2QDFZRBT10
+LM-109para1fsa0m_a_generic_core_c/QDFZRSBN/GND10
+LM-109para1fsa0m_a_generic_core_c/QDFZRSBN/VCC10
+LM-175para1related power/ground10para2QDFZRSBN10
+LM-109para1fsa0m_a_generic_core_c/QDFZS/GND10
+LM-109para1fsa0m_a_generic_core_c/QDFZS/VCC10
+LM-175para1related power/ground10para2QDFZS10
+LM-109para1fsa0m_a_generic_core_c/QDLHN/GND10
+LM-109para1fsa0m_a_generic_core_c/QDLHN/VCC10
+LM-175para1related power/ground10para2QDLHN10
+LM-109para1fsa0m_a_generic_core_c/QDLHP/GND10
+LM-109para1fsa0m_a_generic_core_c/QDLHP/VCC10
+LM-175para1related power/ground10para2QDLHP10
+LM-109para1fsa0m_a_generic_core_c/QDLHRBN/GND10
+LM-109para1fsa0m_a_generic_core_c/QDLHRBN/VCC10
+LM-175para1related power/ground10para2QDLHRBN10
+LM-109para1fsa0m_a_generic_core_c/QDLHRBP/GND10
+LM-109para1fsa0m_a_generic_core_c/QDLHRBP/VCC10
+LM-175para1related power/ground10para2QDLHRBP10
+LM-109para1fsa0m_a_generic_core_c/QDLHRBS/GND10
+LM-109para1fsa0m_a_generic_core_c/QDLHRBS/VCC10
+LM-175para1related power/ground10para2QDLHRBS10
+LM-109para1fsa0m_a_generic_core_c/QDLHS/GND10
+LM-109para1fsa0m_a_generic_core_c/QDLHS/VCC10
+LM-175para1related power/ground10para2QDLHS10
+LM-109para1fsa0m_a_generic_core_c/QDLHSN/GND10
+LM-109para1fsa0m_a_generic_core_c/QDLHSN/VCC10
+LM-175para1related power/ground10para2QDLHSN10
+LM-109para1fsa0m_a_generic_core_c/RAM2/GND10
+LM-109para1fsa0m_a_generic_core_c/RAM2/VCC10
+LM-175para1related power/ground10para2RAM210
+LM-109para1fsa0m_a_generic_core_c/RAM2S/GND10
+LM-109para1fsa0m_a_generic_core_c/RAM2S/VCC10
+LM-175para1related power/ground10para2RAM2S10
+LM-109para1fsa0m_a_generic_core_c/RAM3/GND10
+LM-109para1fsa0m_a_generic_core_c/RAM3/VCC10
+LM-175para1related power/ground10para2RAM310
+LM-109para1fsa0m_a_generic_core_c/RAM3S/GND10
+LM-109para1fsa0m_a_generic_core_c/RAM3S/VCC10
+LM-175para1related power/ground10para2RAM3S10
+LM-109para1fsa0m_a_generic_core_c/RAM5/GND10
+LM-109para1fsa0m_a_generic_core_c/RAM5/VCC10
+LM-175para1related power/ground10para2RAM510
+LM-109para1fsa0m_a_generic_core_c/RAM5S/GND10
+LM-109para1fsa0m_a_generic_core_c/RAM5S/VCC10
+LM-175para1related power/ground10para2RAM5S10
+LM-109para1fsa0m_a_generic_core_c/TIE0/GND10
+LM-109para1fsa0m_a_generic_core_c/TIE0/VCC10
+LM-175para1related power/ground10para2TIE010
+LM-109para1fsa0m_a_generic_core_c/TIE1/GND10
+LM-109para1fsa0m_a_generic_core_c/TIE1/VCC10
+LM-175para1related power/ground10para2TIE110
+LM-109para1fsa0m_a_generic_core_c/XNR2H/GND10
+LM-109para1fsa0m_a_generic_core_c/XNR2H/VCC10
+LM-175para1related power/ground10para2XNR2H10
+LM-109para1fsa0m_a_generic_core_c/XNR2HP/GND10
+LM-109para1fsa0m_a_generic_core_c/XNR2HP/VCC10
+LM-175para1related power/ground10para2XNR2HP10
+LM-109para1fsa0m_a_generic_core_c/XNR2HS/GND10
+LM-109para1fsa0m_a_generic_core_c/XNR2HS/VCC10
+LM-175para1related power/ground10para2XNR2HS10
+LM-109para1fsa0m_a_generic_core_c/XNR2HT/GND10
+LM-109para1fsa0m_a_generic_core_c/XNR2HT/VCC10
+LM-175para1related power/ground10para2XNR2HT10
+LM-109para1fsa0m_a_generic_core_c/XNR3/GND10
+LM-109para1fsa0m_a_generic_core_c/XNR3/VCC10
+LM-175para1related power/ground10para2XNR310
+LM-109para1fsa0m_a_generic_core_c/XNR3P/GND10
+LM-109para1fsa0m_a_generic_core_c/XNR3P/VCC10
+LM-175para1related power/ground10para2XNR3P10
+LM-109para1fsa0m_a_generic_core_c/XNR3S/GND10
+LM-109para1fsa0m_a_generic_core_c/XNR3S/VCC10
+LM-175para1related power/ground10para2XNR3S10
+LM-109para1fsa0m_a_generic_core_c/XNR3T/GND10
+LM-109para1fsa0m_a_generic_core_c/XNR3T/VCC10
+LM-175para1related power/ground10para2XNR3T10
+LM-109para1fsa0m_a_generic_core_c/XNR4/GND10
+LM-109para1fsa0m_a_generic_core_c/XNR4/VCC10
+LM-175para1related power/ground10para2XNR410
+LM-109para1fsa0m_a_generic_core_c/XNR4P/GND10
+LM-109para1fsa0m_a_generic_core_c/XNR4P/VCC10
+LM-175para1related power/ground10para2XNR4P10
+LM-109para1fsa0m_a_generic_core_c/XNR4S/GND10
+LM-109para1fsa0m_a_generic_core_c/XNR4S/VCC10
+LM-175para1related power/ground10para2XNR4S10
+LM-109para1fsa0m_a_generic_core_c/XNR4T/GND10
+LM-109para1fsa0m_a_generic_core_c/XNR4T/VCC10
+LM-175para1related power/ground10para2XNR4T10
+LM-109para1fsa0m_a_generic_core_c/XOR2H/GND10
+LM-109para1fsa0m_a_generic_core_c/XOR2H/VCC10
+LM-175para1related power/ground10para2XOR2H10
+LM-109para1fsa0m_a_generic_core_c/XOR2HP/GND10
+LM-109para1fsa0m_a_generic_core_c/XOR2HP/VCC10
+LM-175para1related power/ground10para2XOR2HP10
+LM-109para1fsa0m_a_generic_core_c/XOR2HS/GND10
+LM-109para1fsa0m_a_generic_core_c/XOR2HS/VCC10
+LM-175para1related power/ground10para2XOR2HS10
+LM-109para1fsa0m_a_generic_core_c/XOR2HT/GND10
+LM-109para1fsa0m_a_generic_core_c/XOR2HT/VCC10
+LM-175para1related power/ground10para2XOR2HT10
+LM-109para1fsa0m_a_generic_core_c/XOR3/GND10
+LM-109para1fsa0m_a_generic_core_c/XOR3/VCC10
+LM-175para1related power/ground10para2XOR310
+LM-109para1fsa0m_a_generic_core_c/XOR3P/GND10
+LM-109para1fsa0m_a_generic_core_c/XOR3P/VCC10
+LM-175para1related power/ground10para2XOR3P10
+LM-109para1fsa0m_a_generic_core_c/XOR3S/GND10
+LM-109para1fsa0m_a_generic_core_c/XOR3S/VCC10
+LM-175para1related power/ground10para2XOR3S10
+LM-109para1fsa0m_a_generic_core_c/XOR3T/GND10
+LM-109para1fsa0m_a_generic_core_c/XOR3T/VCC10
+LM-175para1related power/ground10para2XOR3T10
+LM-109para1fsa0m_a_generic_core_c/XOR4/GND10
+LM-109para1fsa0m_a_generic_core_c/XOR4/VCC10
+LM-175para1related power/ground10para2XOR410
+LM-109para1fsa0m_a_generic_core_c/XOR4P/GND10
+LM-109para1fsa0m_a_generic_core_c/XOR4P/VCC10
+LM-175para1related power/ground10para2XOR4P10
+LM-109para1fsa0m_a_generic_core_c/XOR4S/GND10
+LM-109para1fsa0m_a_generic_core_c/XOR4S/VCC10
+LM-175para1related power/ground10para2XOR4S10
+LM-109para1fsa0m_a_generic_core_c/XOR4T/GND10
+LM-109para1fsa0m_a_generic_core_c/XOR4T/VCC10
+LM-175para1related power/ground10para2XOR4T10
+LM-034para138210para2s10para3382 with a design view (372 had ports reordered);10
+LM-052para11310para2s10
+LM-034para1610para2s10para36 with a design view (6 had ports reordered);10
+LM-052para12310para2s10
+LM-109para1SRAM_C/SRAM/VCC10
+LM-109para1SRAM_C/SRAM/GND10
+LM-175para1related power/ground10para2SRAM10
+LM-034para1110para210para31 with a design view (1 had ports reordered);10
+LM-109para1data_array_C/data_array/GND10
+LM-109para1data_array_C/data_array/VCC10
+LM-175para1related power/ground10para2data_array10
+LM-034para1110para210para31 with a design view (1 had ports reordered);10
+LM-109para1tag_array_C/tag_array/GND10
+LM-109para1tag_array_C/tag_array/VCC10
+LM-175para1related power/ground10para2tag_array10
+LM-034para1110para210para31 with a design view (1 had ports reordered);10
+LM-050para13610para2s10
+LM-052para138810para2s10
+</Messages>

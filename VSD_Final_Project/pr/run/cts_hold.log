@@ -1,0 +1,47 @@
+****************************************
+Report : timing
+        -path_type full
+        -delay_type min
+        -max_paths 1
+        -report_by design
+Design : top
+Version: R-2020.09-SP3
+Date   : Mon Jan  8 22:59:00 2024
+****************************************
+
+  Startpoint: DM1/SRAM_curr_state_reg_0_ (rising edge-triggered flip-flop clocked by pwm_clk)
+  Endpoint: DM1/i_SRAM (rising edge-triggered flip-flop clocked by pwm_clk)
+  Mode: Mfunc
+  Corner: min
+  Scenario: Mfunc:min
+  Path Group: pwm_clk
+  Path Type: min
+
+  Point                                             Incr        Path  
+  ----------------------------------------------------------------------------
+  clock pwm_clk (rise edge)                        0.0000      0.0000
+  clock network delay (propagated)                 0.0589      0.0589
+
+  DM1/SRAM_curr_state_reg_0_/CK (DFCRBN)           0.0000      0.0589 r
+  DM1/SRAM_curr_state_reg_0_/QB (DFCRBN)           0.2145      0.2734 r
+  DM1/U9/O (ND2S)                                  0.0583      0.3317 f
+  DM1/gre_h_inst_12388/O (BUF1S)                   0.0995      0.4312 f
+  DM1/gre_h_inst_12387/O (BUF1S)                   0.1035      0.5346 f
+  DM1/U231/O (OR2S)                                0.1418      0.6764 f
+  DM1/i_SRAM/WEB3 (SRAM)                           0.0007      0.6771 f
+  data arrival time                                            0.6771
+
+  clock pwm_clk (rise edge)                        0.0000      0.0000
+  clock network delay (propagated)                 0.5465      0.5465
+  DM1/i_SRAM/CK (SRAM)                             0.0000      0.5465 r
+  clock uncertainty                                0.0200      0.5665
+  library hold time                                0.1000      0.6665
+  data required time                                           0.6665
+  ----------------------------------------------------------------------------
+  data required time                                           0.6665
+  data arrival time                                           -0.6771
+  ----------------------------------------------------------------------------
+  slack (MET)                                                  0.0107
+
+
+1

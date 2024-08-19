@@ -1,0 +1,106 @@
+Warning: Scenario Mfunc:min is not configured for setup analysis: skipping. (UIC-058)
+****************************************
+Report : timing
+        -path_type full
+        -delay_type max
+        -max_paths 1
+        -report_by design
+Design : top
+Version: R-2020.09-SP3
+Date   : Mon Jan  8 22:59:00 2024
+****************************************
+
+  Startpoint: CPU_wrapper/CPU2/MEM_WB0/forward_rd_out_reg_2_ (rising edge-triggered flip-flop clocked by cpu_clk)
+  Endpoint: CPU_wrapper/L1C_inst1/TA/i_tag_array (rising edge-triggered flip-flop clocked by cpu_clk)
+  Mode: Mfunc
+  Corner: max
+  Scenario: Mfunc:max
+  Path Group: cpu_clk
+  Path Type: max
+
+  Point                                             Incr        Path  
+  ----------------------------------------------------------------------------
+  clock cpu_clk (rise edge)                        0.0000      0.0000
+  clock network delay (propagated)                 0.7891      0.7891
+
+  CPU_wrapper/CPU2/MEM_WB0/forward_rd_out_reg_2_/CK (DFCLRBN)
+                                                   0.0000      0.7891 r
+  CPU_wrapper/CPU2/MEM_WB0/forward_rd_out_reg_2_/Q (DFCLRBN)
+                                                   0.5515      1.3406 r
+  CPU_wrapper/CPU2/Reg_file0/ZBUF_486_inst_1928/O (BUF6)
+                                                   0.2213      1.5618 r
+  CPU_wrapper/CPU2/Reg_file0/U272/O (INV4)         0.0794      1.6413 f
+  CPU_wrapper/CPU2/Reg_file0/U82/O (OR3B2)         0.2348      1.8760 f
+  CPU_wrapper/CPU2/Reg_file0/U437/O (INV2)         0.1018      1.9778 r
+  CPU_wrapper/CPU2/Reg_file0/U233/O (BUF6)         0.2728      2.2506 r
+  CPU_wrapper/CPU2/Reg_file0/ctmTdsLR_1_9012/O (AN2T)
+                                                   0.4878      2.7384 r
+  CPU_wrapper/CPU2/Reg_file0/U3022/O (AO222S)      0.4809      3.2193 r
+  CPU_wrapper/CPU2/Reg_file0/ctmTdsLR_3_9197/O (OR2)
+                                                   0.2537      3.4730 r
+  CPU_wrapper/CPU2/Reg_file0/ctmTdsLR_2_11755/O (NR2)
+                                                   0.1081      3.5811 f
+  CPU_wrapper/CPU2/Reg_file0/ctmTdsLR_1_11754/O (ND3P)
+                                                   0.1377      3.7188 r
+  CPU_wrapper/CPU2/Reg_file0/U296/O (AO22S)        0.3073      4.0261 r
+  CPU_wrapper/CPU2/Reg_file0/U438/O (INV1S)        0.1967      4.2228 f
+  CPU_wrapper/CPU2/Reg_file0/U967/O (MOAI1)        0.2583      4.4812 r
+  CPU_wrapper/CPU2/Mux2_15/ctmTdsLR_1_9588/O (MUX2S)
+                                                   0.2457      4.7268 r
+  CPU_wrapper/CPU2/Comparator0/r371/U252/O (INV1S)
+                                                   0.1459      4.8727 f
+  CPU_wrapper/CPU2/Comparator0/r371/U223/O (XNR2HS)
+                                                   0.1795      5.0522 f
+  CPU_wrapper/CPU2/Comparator0/r371/U251/O (NR2P)
+                                                   0.1896      5.2418 r
+  CPU_wrapper/CPU2/Comparator0/r371/U332/O (ND2P)
+                                                   0.1092      5.3510 f
+  CPU_wrapper/CPU2/Comparator0/r371/U210/O (NR2P)
+                                                   0.1240      5.4750 r
+  CPU_wrapper/CPU2/Comparator0/r371/U209/O (ND2P)
+                                                   0.0887      5.5637 f
+  CPU_wrapper/CPU2/Comparator0/r371/U240/O (OAI12H)
+                                                   0.1926      5.7563 r
+  CPU_wrapper/CPU2/Comparator0/r371/U227/O (AOI12H)
+                                                   0.1119      5.8682 f
+  CPU_wrapper/CPU2/Comparator0/r371/U180/O (OAI12H)
+                                                   0.1797      6.0479 r
+  CPU_wrapper/CPU2/Comparator0/r371/U182/O (AOI12H)
+                                                   0.1169      6.1648 f
+  CPU_wrapper/CPU2/Comparator0/r371/U245/O (OAI12H)
+                                                   0.1738      6.3386 r
+  CPU_wrapper/CPU2/Comparator0/ctmTdsLR_3_10136/O (OA12S)
+                                                   0.2268      6.5653 r
+  CPU_wrapper/CPU2/Comparator0/ctmTdsLR_1_10134/OB (MXL2HS)
+                                                   0.1219      6.6873 f
+  CPU_wrapper/CPU2/Comparator0/U3/OB (MXL2HS)      0.2066      6.8939 r
+  CPU_wrapper/CPU2/Control0/U3/O (ND3P)            0.1371      7.0310 f
+  CPU_wrapper/CPU2/Control0/U5/O (ND2T)            0.1280      7.1590 r
+  CPU_wrapper/CPU2/Mux16_1_0/U31/O (AN2)           0.2798      7.4389 r
+  CPU_wrapper/CPU2/Mux16_1_0/U44/O (AN2T)          0.5120      7.9509 r
+  CPU_wrapper/CPU2/Mux16_1_0/U251/O (AOI22S)       0.1184      8.0693 f
+  CPU_wrapper/CPU2/Mux16_1_0/U253/O (ND2S)         0.1560      8.2253 r
+  CPU_wrapper/CPU2/Mux16_1_0/U26/O (OR3P)          0.3140      8.5394 r
+  CPU_wrapper/L1C_inst1/U15/O (INV4)               0.1115      8.6509 f
+  CPU_wrapper/L1C_inst1/U18/O (OAI22HP)            0.2123      8.8632 r
+  CPU_wrapper/L1C_inst1/TA/ZBUF_13_inst_1247/O (BUF3)
+                                                   0.2877      9.1509 r
+  CPU_wrapper/L1C_inst1/TA/i_tag_array/A4 (tag_array)
+                                                   0.0115      9.1624 r
+  data arrival time                                            9.1624
+
+  clock cpu_clk (rise edge)                       10.0000     10.0000
+  clock network delay (propagated)                 0.7799     10.7799
+  CPU_wrapper/L1C_inst1/TA/i_tag_array/CK (tag_array)
+                                                   0.0000     10.7799 r
+  clock uncertainty                               -0.5000     10.2799
+  library setup time                              -1.1180      9.1620
+  data required time                                           9.1620
+  ----------------------------------------------------------------------------
+  data required time                                           9.1620
+  data arrival time                                           -9.1624
+  ----------------------------------------------------------------------------
+  slack (VIOLATED)                                            -0.0004
+
+
+1

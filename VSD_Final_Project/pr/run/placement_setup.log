@@ -1,0 +1,54 @@
+Warning: Scenario Mfunc:min is not configured for setup analysis: skipping. (UIC-058)
+****************************************
+Report : timing
+        -path_type full
+        -delay_type max
+        -max_paths 1
+        -report_by design
+Design : top
+Version: R-2020.09-SP3
+Date   : Mon Jan  8 22:50:00 2024
+****************************************
+
+  Startpoint: DRAM/DRAM_curr_state_reg_0_ (rising edge-triggered flip-flop clocked by dram_clk)
+  Endpoint: DRAM/CASn_set_reg (rising edge-triggered flip-flop clocked by dram_clk)
+  Mode: Mfunc
+  Corner: max
+  Scenario: Mfunc:max
+  Path Group: dram_clk
+  Path Type: max
+
+  Point                                             Incr        Path  
+  ----------------------------------------------------------------------------
+  clock dram_clk (rise edge)                       0.0000      0.0000
+  clock network delay (ideal)                      2.0200      2.0200
+
+  DRAM/DRAM_curr_state_reg_0_/CK (DFCRBN)          0.0000      2.0200 r
+  DRAM/DRAM_curr_state_reg_0_/QB (DFCRBN)          0.4808      2.5008 f
+  DRAM/ctmTdsLR_1_2250/O (ND3)                     0.1802      2.6809 r
+  DRAM/U55/O (INV2)                                0.0786      2.7595 f
+  DRAM/ctmTdsLR_1_2252/O (NR2T)                    0.1174      2.8770 r
+  DRAM/ctmTdsLR_1_2251/O (ND3HT)                   0.0974      2.9743 f
+  DRAM/U191/O (NR2T)                               0.1230      3.0974 r
+  DRAM/U190/O (ND3HT)                             25.5762     28.6736 f
+  DRAM/ctmTdsLR_3_2248/O (INV1S)                   3.7399     32.4134 r
+  DRAM/ZBUF_12_inst_2495/O (BUF1S)                -0.0474     32.3661 r
+  DRAM/ctmTdsLR_1_2246/O (OR2B1)                   0.2895     32.6555 f
+  DRAM/ctmTdsLR_1_2249/O (OAI12H)                  0.0708     32.7263 r
+  DRAM/CASn_set_reg/D (DFCRBN)                     0.0002     32.7265 r
+  data arrival time                                           32.7265
+
+  clock dram_clk (rise edge)                      30.4000     30.4000
+  clock network delay (ideal)                      2.2200     32.6200
+  DRAM/CASn_set_reg/CK (DFCRBN)                    0.0000     32.6200 r
+  clock uncertainty                               -0.5000     32.1200
+  library setup time                              -0.2117     31.9083
+  data required time                                          31.9083
+  ----------------------------------------------------------------------------
+  data required time                                          31.9083
+  data arrival time                                          -32.7265
+  ----------------------------------------------------------------------------
+  slack (VIOLATED)                                            -0.8182
+
+
+1
